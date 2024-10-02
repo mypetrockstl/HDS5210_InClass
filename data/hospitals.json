@@ -1,0 +1,37 @@
+[
+    {
+        "System": "BJC",
+        "Hospitals": [
+            {
+                "Beds": 1432,
+                "Hospital": "BJH",
+                "City": "St. Louis"
+            },
+            {
+                "Beds": 1107,
+                "Hospital": "MOBap",
+                "City": "Creve Coeur"
+            }
+        ]
+    },
+    {
+        "System": "SSM",
+        "Hospitals": [
+            {
+                "Beds": 965,
+                "Hospital": "SLUH",
+                "City": "St. Louis"
+            }
+        ]
+    },
+    {
+        "System": "Mercy",
+        "Hospitals": [
+            {
+                "Beds": 983,
+                "Hospital": "Mercy STL",
+                "City": "Creve Coeur"
+            }
+        ]
+    }
+]

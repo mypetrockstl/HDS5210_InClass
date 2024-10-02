@@ -1,0 +1,30 @@
+﻿patient,age,sex,chf history,hypertension history,stroke history,vascular disease history,diabetes history,history,ekg,risk factors,troponin,smoker,total cholesterol,hdl cholesterol,systolic bp,bp medicine
+E40794,82,M,No,Yes,Yes,Yes,Yes,Moderately suspicious,Normal,4,3.8,No,214,64,92,Yes
+E57853,22,M,No,No,Yes,No,No,Slightly suspicious,Non-specific repolarization,2,2.3,No,146,33,102,No
+E63841,32,F,Yes,Yes,Yes,Yes,Yes,Slightly suspicious,Non-specific repolarization,4,1.3,No,195,31,115,Yes
+E87700,21,F,Yes,Yes,Yes,No,No,Highly suspicious,Non-specific repolarization,1,1.1,No,152,42,82,Yes
+E49662,52,F,Yes,Yes,No,No,No,Slightly suspicious,Normal,5,1.2,No,214,58,85,Yes
+E19241,88,M,Yes,Yes,Yes,No,No,Moderately suspicious,Significant ST deviation,5,0.5,Yes,173,67,104,No
+E94033,22,M,No,No,Yes,No,No,Slightly suspicious,Non-specific repolarization,5,3,No,163,62,112,No
+E19724,71,F,No,No,No,Yes,Yes,Slightly suspicious,Significant ST deviation,4,3.9,No,188,30,99,No
+E77077,89,F,Yes,No,No,Yes,Yes,Moderately suspicious,Non-specific repolarization,5,0.3,Yes,172,55,88,No
+E75736,54,M,Yes,No,No,No,Yes,Highly suspicious,Normal,4,3.9,No,156,52,117,Yes
+E20246,89,F,No,No,Yes,Yes,No,Moderately suspicious,Normal,3,0.3,No,147,58,127,Yes
+E58235,36,M,No,Yes,No,Yes,Yes,Slightly suspicious,Non-specific repolarization,1,0.4,Yes,169,33,128,Yes
+E29619,57,F,Yes,No,No,Yes,Yes,Moderately suspicious,Normal,4,1.3,Yes,204,40,86,No
+E18023,22,F,No,Yes,No,Yes,No,Slightly suspicious,Normal,5,0.2,No,177,59,81,No
+E56386,40,F,Yes,Yes,Yes,No,No,Slightly suspicious,Normal,4,3.9,No,165,43,111,Yes
+E87379,54,F,No,No,No,Yes,Yes,Highly suspicious,Normal,3,3.1,Yes,200,50,86,No
+E44264,39,M,Yes,No,No,No,No,Highly suspicious,Significant ST deviation,4,0.9,No,189,49,130,Yes
+E85955,61,F,No,No,No,Yes,No,Moderately suspicious,Normal,2,1.9,Yes,176,68,106,No
+E17497,57,F,Yes,No,Yes,No,No,Slightly suspicious,Normal,1,1.7,No,181,47,124,Yes
+E11391,76,F,Yes,Yes,Yes,Yes,Yes,Moderately suspicious,Significant ST deviation,2,1.7,Yes,162,56,94,No
+E41611,83,M,No,No,No,No,No,Slightly suspicious,Normal,1,1,No,215,52,98,Yes
+E66188,86,F,No,Yes,No,No,No,Highly suspicious,Normal,1,2.3,Yes,169,55,100,Yes
+E74052,61,F,Yes,No,No,No,Yes,Highly suspicious,Non-specific repolarization,2,3.5,No,151,65,86,Yes
+E40182,46,M,Yes,Yes,Yes,Yes,No,Slightly suspicious,Normal,2,1,No,174,64,114,No
+E21161,25,M,Yes,Yes,No,Yes,Yes,Slightly suspicious,Significant ST deviation,4,3.1,No,193,31,84,No
+E59494,62,M,No,Yes,Yes,Yes,Yes,Moderately suspicious,Non-specific repolarization,1,2.4,No,167,31,115,No
+E61747,59,M,No,Yes,Yes,No,No,Highly suspicious,Non-specific repolarization,2,3.6,Yes,174,66,88,Yes
+E42697,60,F,No,Yes,Yes,No,Yes,Moderately suspicious,Significant ST deviation,1,2.1,Yes,156,63,124,Yes
+E61043,53,M,No,Yes,Yes,No,No,Slightly suspicious,Normal,4,0.1,No,141,51,109,No
