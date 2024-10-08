@@ -1,0 +1,1001 @@
+NAME,SSN,LANGUAGE,JOB,HEIGHT_M,WEIGHT_KG,fev_pct,dyspnea_description,distance_in_meters,hospital
+Vanessa Roberts,295-82-3703,Belarusian,Teacher English as a foreign language,1.72,90.28,57.73,STOPS AFTER A FEW MINUTES,367.9,ST.LUKE'S
+Christopher Fox,286-30-9664,Macedonian,Local government officer,1.64,83.09,61.6,WHEN HURRYING,184.16,SAINT LOUIS UNIVERSITY
+Benjamin Johnston,139-07-4381,Kirghiz,Multimedia programmer,1.61,94.91,83.11,BREATHLESS WHEN DRESSING,260.66,BJC
+Christopher Hernandez,687-37-0804,South Ndebele,Community education officer,1.67,81.55,70.51,STOPS AFTER A FEW MINUTES,315.45,MISSOURI BAPTIST
+Valerie Burch,063-59-5740,Quechua,Research scientist (life sciences),1.77,84.52,67.14,WALKING UPHILL,360.36,BJC WEST COUNTY
+Heather Hart,393-88-2622,Telugu,Barrister,1.68,83.23,79.15,ONLY STRENUOUS EXERCISE,120.91,SAINT LOUIS UNIVERSITY
+Ronald Cobb,580-53-4195,Azerbaijani,IT technical support officer,1.66,100.52,58.8,WHEN HURRYING,79.59,ST.MARY'S
+Austin French,633-29-4022,Italian,Dentist,1.77,115.61,35.44,WALKING UPHILL,69.2,SAINT LOUIS UNIVERSITY
+Mary Leonard,566-71-8334,Sichuan Yi,Telecommunications researcher,1.66,79.25,29.56,BREATHLESS WHEN DRESSING,237.84,BJC
+Mrs. Nicole Smith,372-27-5770,Luxembourgish,Administrator,1.7,99.65,63.87,STOPS AFTER 100 YARDS,161.59,ST.MARY'S
+Ashley Warren,613-63-5802,Kongo,Therapist speech and language,1.68,103.8,27.5,STOPS AFTER 100 YARDS,249.86,BJC
+Jeffrey Jacobson,849-70-5207,Sindhi,Restaurant manager,1.56,78.69,39.03,WALKING UPHILL,236.62,BJC WEST COUNTY
+Angela Bauer,873-36-8278,Aymara,Customer service manager,1.76,84.88,88.2,STOPS AFTER A FEW MINUTES,14.4,BJC WEST COUNTY
+Jerry Rogers,448-37-6064,Ganda,Chartered certified accountant,1.66,102.01,58.61,UNABLE TO LEAVE HOME,345.36,BJC
+Lisa Beck,325-19-7685,Serbian,Insurance underwriter,1.59,109.7,49.69,WHEN HURRYING,375.22,BJC
+Bryan Pena,159-50-0766,Assamese,Scientist research (medical),1.53,110.0,59.27,STOPS AFTER 100 YARDS,131.99,SAINT LOUIS UNIVERSITY
+Jessica Henderson,662-85-6455,Tatar,Homeopath,1.61,82.99,92.85,STOPS AFTER A FEW MINUTES,326.82,SAINT LOUIS UNIVERSITY
+Daniel Mitchell,210-90-0620,Ossetian,Further education lecturer,1.5,110.08,47.75,WALKING UPHILL,339.87,MISSOURI BAPTIST
+Melanie Graham,035-82-9139,Esperanto,Financial manager,1.58,117.41,91.63,BREATHLESS WHEN DRESSING,255.96,BJC
+Deborah Jimenez,768-90-9819,Interlingue,Environmental education officer,1.68,86.8,74.8,STOPS AFTER 100 YARDS,106.31,MISSOURI BAPTIST
+Kathryn Rasmussen,705-48-6000,Pushto,Psychiatric nurse,1.69,81.84,65.73,WALKING UPHILL,263.27,BJC WEST COUNTY
+Brian Leon,372-74-9099,Uzbek,Professor Emeritus,1.53,101.12,80.16,SLOWER THAN PEERS,61.94,BJC
+Robert Walker,112-50-0726,Ossetian,Investment analyst,1.68,101.39,40.5,SLOWER THAN PEERS,96.01,MISSOURI BAPTIST
+Drew Case,531-13-3735,Bulgarian,Investment analyst,1.66,108.75,60.47,STOPS WHEN WALKING AT PACE,21.91,MISSOURI BAPTIST
+Joshua Finley,179-26-6570,Afrikaans,Pharmacologist,1.68,108.5,39.12,WALKING UPHILL,153.87,ST.LUKE'S
+Danny Smith,183-14-2080,Hebrew,Water engineer,1.69,93.05,62.1,ONLY STRENUOUS EXERCISE,189.01,BJC
+Jennifer Smith,081-25-6118,Malay,Engineer manufacturing,1.75,88.63,32.77,BREATHLESS WHEN DRESSING,319.34,SAINT LOUIS UNIVERSITY
+John Figueroa,293-28-3511,Western Frisian,Editorial assistant,1.74,103.43,91.36,WALKING UPHILL,16.88,ST.LUKE'S
+William Whitehead,847-30-6360,Sanskrit,Control and instrumentation engineer,1.61,104.63,82.66,STOPS WHEN WALKING AT PACE,18.23,ST.MARY'S
+Paul Trujillo,451-37-7380,Ndonga,Buyer industrial,1.52,106.91,59.76,STOPS AFTER 100 YARDS,111.23,ST.LUKE'S
+Tiffany Lewis,551-09-9692,Tagalog,Research scientist (medical),1.59,79.56,66.84,STOPS AFTER 100 YARDS,379.74,SAINT LOUIS UNIVERSITY
+Randall Horn,363-83-9355,Hindi,Astronomer,1.67,80.79,91.69,BREATHLESS WHEN DRESSING,377.65,ST.MARY'S
+Christopher Maldonado,039-37-6928,Luxembourgish,Museum/gallery exhibitions officer,1.77,88.71,70.99,STOPS AFTER 100 YARDS,94.77,MISSOURI BAPTIST
+Darren Fletcher,607-40-4072,Croatian,Politician's assistant,1.78,94.84,91.86,SLOWER THAN PEERS,219.09,BJC WEST COUNTY
+Nathan Arnold,593-72-8403,Hebrew,Regulatory affairs officer,1.61,103.59,91.93,UNABLE TO LEAVE HOME,111.57,SAINT LOUIS UNIVERSITY
+Jamie Reeves,728-22-9236,Ukrainian,Media planner,1.52,84.01,64.51,UNABLE TO LEAVE HOME,176.7,ST.LUKE'S
+Ian Murphy,760-31-4967,Divehi,Nurse mental health,1.62,85.69,85.15,SLOWER THAN PEERS,161.74,MISSOURI BAPTIST
+Edward Blackwell,792-43-5938,Ossetian,Legal executive,1.76,92.74,76.12,STOPS AFTER 100 YARDS,268.35,MISSOURI BAPTIST
+Allen Lee,877-57-6198,Telugu,Chartered legal executive (England and Wales),1.7,97.61,37.7,WALKING UPHILL,195.09,ST.MARY'S
+Anthony Dorsey,522-83-7210,Igbo,Insurance underwriter,1.59,103.33,29.36,WALKING UPHILL,175.59,MISSOURI BAPTIST
+John Fitzpatrick,306-69-8263,Kurdish,Advertising account executive,1.79,98.27,86.98,ONLY STRENUOUS EXERCISE,228.1,ST.MARY'S
+Erin Ortiz,756-08-0963,Urdu,Conservation officer historic buildings,1.75,83.44,96.69,STOPS AFTER 100 YARDS,221.99,ST.MARY'S
+Amanda Garcia,164-93-9558,Divehi,Software engineer,1.77,91.59,39.68,WHEN HURRYING,24.25,MISSOURI BAPTIST
+Michael Rangel,621-87-6854,Thai,Local government officer,1.52,82.99,40.2,UNABLE TO LEAVE HOME,261.95,ST.LUKE'S
+John Snyder,242-02-6117,Somali,Occupational psychologist,1.63,93.33,86.96,WHEN HURRYING,210.69,BJC WEST COUNTY
+Dana Mcdonald,030-82-8104,Japanese,Engineer energy,1.69,98.81,64.6,STOPS AFTER 100 YARDS,244.85,ST.MARY'S
+Selena Rocha,869-53-4064,Bosnian,Forensic scientist,1.57,117.1,78.38,UNABLE TO LEAVE HOME,171.51,BJC WEST COUNTY
+Anna Lopez,855-86-8099,Kashmiri,Oncologist,1.65,91.03,56.3,WHEN HURRYING,69.39,MISSOURI BAPTIST
+Keith Smith,556-58-6048,Igbo,Community arts worker,1.58,88.54,84.65,SLOWER THAN PEERS,250.58,MISSOURI BAPTIST
+Bryan Smith,618-26-7296,Mongolian,Dentist,1.8,87.36,62.77,SLOWER THAN PEERS,208.01,MISSOURI BAPTIST
+Jennifer Tyler,573-55-7435,Irish,Rural practice surveyor,1.64,116.87,27.23,WALKING UPHILL,339.07,BJC WEST COUNTY
+Lynn Black,685-81-8202,Twi,Event organiser,1.7,103.86,90.36,SLOWER THAN PEERS,252.59,ST.LUKE'S
+Alan Johnson,135-79-5942,Sardinian,Doctor hospital,1.62,103.26,82.89,SLOWER THAN PEERS,170.36,BJC WEST COUNTY
+Melinda Summers,283-60-0960,Venda,Quality manager,1.76,81.97,69.29,SLOWER THAN PEERS,141.55,MISSOURI BAPTIST
+Larry Waters,728-41-5476,Ukrainian,Proofreader,1.77,99.11,56.18,BREATHLESS WHEN DRESSING,140.81,MISSOURI BAPTIST
+Roy Alvarez,837-66-6680,Sichuan Yi,Agricultural engineer,1.77,94.6,41.34,BREATHLESS WHEN DRESSING,241.71,SAINT LOUIS UNIVERSITY
+David Wong,386-42-8730,Persian,Licensed conveyancer,1.62,98.6,99.1,STOPS AFTER 100 YARDS,356.44,MISSOURI BAPTIST
+Pedro Kelly,692-11-4596,Icelandic,Industrial/product designer,1.51,96.39,99.22,STOPS AFTER 100 YARDS,172.41,ST.LUKE'S
+David Robertson,339-25-9456,Hindi,Intelligence analyst,1.63,85.15,53.68,STOPS WHEN WALKING AT PACE,303.03,ST.LUKE'S
+William Mayo,456-07-4088,Walloon,Administrator charities/voluntary organisations,1.7,80.7,60.34,SLOWER THAN PEERS,246.07,MISSOURI BAPTIST
+Beth Perkins,214-62-2234,Chamorro,Hospital pharmacist,1.54,99.72,77.98,UNABLE TO LEAVE HOME,265.33,BJC WEST COUNTY
+Robert Pierce,315-23-3027,Herero,Manufacturing engineer,1.73,85.98,57.92,UNABLE TO LEAVE HOME,171.55,ST.LUKE'S
+Rebecca Jones,862-32-7495,Sundanese,Multimedia specialist,1.62,115.58,75.98,WALKING UPHILL,141.18,ST.LUKE'S
+Christina Johnson,028-54-7143,Aragonese,Chief of Staff,1.55,113.3,80.71,WALKING UPHILL,93.93,SAINT LOUIS UNIVERSITY
+Denise Powell,362-17-2066,Oromo,Museum/gallery exhibitions officer,1.63,85.97,78.01,WHEN HURRYING,246.32,BJC WEST COUNTY
+Patrick Costa,176-93-9618,Polish,Legal executive,1.63,93.12,38.35,WHEN HURRYING,1.71,ST.LUKE'S
+Scott Campbell,286-69-6988,Korean,Higher education careers adviser,1.76,99.02,86.0,UNABLE TO LEAVE HOME,267.67,ST.MARY'S
+Cassandra Flores,782-11-9903,Danish,Graphic designer,1.76,106.61,33.55,STOPS AFTER 100 YARDS,206.17,MISSOURI BAPTIST
+Brandon Lee,494-01-5188,Shona,Research scientist (life sciences),1.74,95.61,66.82,WHEN HURRYING,85.0,ST.MARY'S
+Katie Reed,865-54-0293,Vietnamese,Photographer,1.51,107.78,78.6,UNABLE TO LEAVE HOME,359.67,ST.LUKE'S
+Thomas Gonzalez,704-60-2793,Norwegian,Training and development officer,1.62,80.82,70.84,SLOWER THAN PEERS,169.4,ST.LUKE'S
+Kayla Mcdowell,733-54-8348,Sanskrit,Broadcast engineer,1.72,112.6,53.25,WALKING UPHILL,392.64,ST.LUKE'S
+Edward Wallace,488-92-4816,Afar,Corporate treasurer,1.73,108.15,50.48,UNABLE TO LEAVE HOME,12.24,ST.LUKE'S
+Laura Chaney,546-81-5268,Avaric,Research scientist (life sciences),1.51,101.67,93.34,STOPS AFTER 100 YARDS,139.87,ST.LUKE'S
+Dr. William Clark II,549-20-3807,Hindi,Herbalist,1.78,89.45,68.92,UNABLE TO LEAVE HOME,231.83,BJC
+Jared Sherman,155-71-2072,Esperanto,Ergonomist,1.7,110.66,88.58,WHEN HURRYING,84.96,BJC WEST COUNTY
+David Martin,568-75-7396,French,TEFL teacher,1.63,79.51,34.4,STOPS WHEN WALKING AT PACE,259.71,SAINT LOUIS UNIVERSITY
+Yolanda Hall,418-23-1600,Ndonga,Chief Marketing Officer,1.61,92.96,41.84,STOPS AFTER A FEW MINUTES,354.06,ST.LUKE'S
+Jasmine Brown,454-29-6625,Latin,Embryologist clinical,1.62,91.71,27.61,STOPS AFTER A FEW MINUTES,226.54,ST.LUKE'S
+Laurie Campbell,620-25-7725,Dutch,Administrator sports,1.53,98.42,28.28,SLOWER THAN PEERS,199.83,BJC
+Dillon Jones,734-09-4582,Divehi,Probation officer,1.51,96.72,43.13,STOPS AFTER 100 YARDS,167.47,MISSOURI BAPTIST
+Stephen Perez,757-25-5491,English,Youth worker,1.51,87.26,33.9,WALKING UPHILL,307.32,MISSOURI BAPTIST
+James Walls,858-61-4987,Tsonga,Psychologist counselling,1.72,93.08,56.72,WHEN HURRYING,140.09,SAINT LOUIS UNIVERSITY
+Ronnie Mathews,434-68-6780,Luba-Katanga,Insurance risk surveyor,1.62,81.73,41.85,STOPS WHEN WALKING AT PACE,54.96,ST.LUKE'S
+Melissa Thompson,306-83-4242,Occitan,Administrator Civil Service,1.65,87.4,95.91,UNABLE TO LEAVE HOME,185.07,BJC
+Misty Leonard,807-19-5680,Kashmiri,Applications developer,1.53,82.63,33.34,BREATHLESS WHEN DRESSING,6.76,ST.MARY'S
+Monica Bradford,738-96-5643,Javanese,Designer interior/spatial,1.8,94.37,81.53,WHEN HURRYING,21.29,SAINT LOUIS UNIVERSITY
+Angela Jordan,798-91-2920,Kashmiri,Oceanographer,1.57,107.35,35.81,STOPS AFTER A FEW MINUTES,366.74,MISSOURI BAPTIST
+Stephanie Brown,035-84-4046,Limburgan,Engineer technical sales,1.63,79.25,35.54,SLOWER THAN PEERS,382.67,ST.LUKE'S
+Anthony Davis,549-83-1452,Kashmiri,Building services engineer,1.54,110.97,34.52,STOPS AFTER 100 YARDS,320.8,MISSOURI BAPTIST
+Maria Davis,483-32-9012,Hausa,Exercise physiologist,1.68,101.02,87.41,SLOWER THAN PEERS,255.6,SAINT LOUIS UNIVERSITY
+Kelly Patterson,865-74-9407,Marshallese,Publishing copy,1.63,91.8,28.57,ONLY STRENUOUS EXERCISE,184.49,ST.MARY'S
+Ryan Pittman Jr.,660-80-3072,Georgian,Firefighter,1.63,115.03,59.51,BREATHLESS WHEN DRESSING,35.78,ST.LUKE'S
+Jonathan Stein,659-32-4026,English,Scientist research (life sciences),1.71,95.73,87.88,BREATHLESS WHEN DRESSING,332.94,SAINT LOUIS UNIVERSITY
+Alex Cooper,252-20-4387,Wolof,Market researcher,1.76,93.88,56.44,WHEN HURRYING,389.77,BJC
+Kelly Jordan,349-22-8636,Romanian,Therapist drama,1.74,81.53,88.92,UNABLE TO LEAVE HOME,390.9,MISSOURI BAPTIST
+Andrea Lopez,066-07-5299,Uzbek,Agricultural engineer,1.53,105.2,96.82,STOPS AFTER 100 YARDS,74.27,ST.MARY'S
+Paul Tucker,563-09-6495,Russian,Insurance risk surveyor,1.5,85.73,69.11,STOPS WHEN WALKING AT PACE,196.81,ST.LUKE'S
+Cynthia Murphy,432-82-3957,Finnish,Surveyor building control,1.54,84.45,74.69,SLOWER THAN PEERS,189.82,BJC WEST COUNTY
+Matthew Lewis,631-91-6975,Avaric,Education officer environmental,1.78,78.72,97.97,WALKING UPHILL,65.58,BJC WEST COUNTY
+Austin Sanders,166-18-8052,Albanian,Tax inspector,1.7,98.39,99.57,UNABLE TO LEAVE HOME,352.99,BJC
+Ronald Phillips,294-59-7394,Lao,Scientist marine,1.58,87.6,49.21,BREATHLESS WHEN DRESSING,61.01,SAINT LOUIS UNIVERSITY
+John Snow,336-19-8859,Assamese,Therapist occupational,1.64,109.59,29.5,UNABLE TO LEAVE HOME,126.37,BJC
+Joan Hahn,454-50-5087,French,Psychiatrist,1.68,115.77,43.28,WHEN HURRYING,202.42,BJC
+Daniel Camacho,803-13-8876,Shona,Teacher music,1.7,95.11,28.02,WHEN HURRYING,394.52,BJC WEST COUNTY
+Gary Martin,326-10-0523,Malayalam,Land/geomatics surveyor,1.55,110.32,82.39,WALKING UPHILL,20.19,BJC WEST COUNTY
+Christina Moyer,212-28-4526,Assamese,Advice worker,1.58,93.0,37.42,SLOWER THAN PEERS,275.86,MISSOURI BAPTIST
+Derek Gibson,421-61-9161,Tahitian,Animal technologist,1.63,105.22,44.15,STOPS AFTER A FEW MINUTES,394.21,MISSOURI BAPTIST
+Michael Fox,099-21-2526,Macedonian,Associate Professor,1.51,117.14,37.52,STOPS AFTER A FEW MINUTES,268.29,ST.LUKE'S
+Alex Terry,333-07-8870,Quechua,Public affairs consultant,1.56,101.85,95.36,STOPS AFTER A FEW MINUTES,141.19,BJC
+Kelsey Hill,239-20-1255,Faroese,Management consultant,1.6,110.83,55.63,SLOWER THAN PEERS,89.71,SAINT LOUIS UNIVERSITY
+Dana Wise,373-98-8928,Ganda,Ranger/warden,1.58,93.77,51.18,WHEN HURRYING,200.13,SAINT LOUIS UNIVERSITY
+William Hughes,440-65-6889,Tsonga,Medical illustrator,1.64,78.72,53.94,SLOWER THAN PEERS,70.37,SAINT LOUIS UNIVERSITY
+Cassandra Holt,083-69-4370,Kazakh,Learning disability nurse,1.52,93.14,84.73,STOPS WHEN WALKING AT PACE,304.43,BJC
+Dr. Christopher Henderson,188-82-1708,Sardinian,Automotive engineer,1.65,95.29,29.79,WALKING UPHILL,108.42,MISSOURI BAPTIST
+Amanda Cox,435-54-6501,Oriya,Economist,1.73,80.37,95.08,UNABLE TO LEAVE HOME,128.47,BJC
+Morgan Kirk,002-73-5187,Maltese,Musician,1.66,84.68,53.78,STOPS AFTER 100 YARDS,23.43,SAINT LOUIS UNIVERSITY
+Scott Jones,205-46-1277,Gaelic,Multimedia specialist,1.68,94.75,47.82,BREATHLESS WHEN DRESSING,29.31,ST.LUKE'S
+Chelsea Bailey,644-69-1326,Cree,Biochemist clinical,1.66,117.47,47.37,WALKING UPHILL,274.59,ST.MARY'S
+Andrew Vasquez,678-75-5389,Western Frisian,Podiatrist,1.68,80.02,67.72,SLOWER THAN PEERS,165.56,BJC WEST COUNTY
+Michelle Lyons,412-37-0497,Ndonga,Interpreter,1.58,116.72,86.36,ONLY STRENUOUS EXERCISE,132.27,SAINT LOUIS UNIVERSITY
+Shelley Williams,008-71-6137,Catalan,Restaurant manager fast food,1.68,85.53,75.43,ONLY STRENUOUS EXERCISE,191.64,MISSOURI BAPTIST
+Elizabeth Jimenez,193-07-4656,Turkish,Forensic scientist,1.74,105.81,77.24,SLOWER THAN PEERS,354.56,BJC WEST COUNTY
+Julia Sanders,303-81-8432,Sindhi,Secondary school teacher,1.74,113.93,84.48,STOPS WHEN WALKING AT PACE,232.02,SAINT LOUIS UNIVERSITY
+Kimberly Cox,887-18-2056,Samoan,Paediatric nurse,1.52,96.39,57.51,STOPS AFTER 100 YARDS,373.34,BJC
+Bryan Pearson,136-08-7851,Oriya,English as a second language teacher,1.62,89.14,93.15,ONLY STRENUOUS EXERCISE,373.41,ST.MARY'S
+Taylor Stewart,029-35-0035,Amharic,Banker,1.79,106.62,41.77,BREATHLESS WHEN DRESSING,357.07,ST.MARY'S
+Catherine Lindsey,889-53-1293,Greek,Waste management officer,1.52,100.12,84.65,WALKING UPHILL,343.18,SAINT LOUIS UNIVERSITY
+Justin Daniels,251-72-9385,Tigrinya,Teacher special educational needs,1.6,109.27,67.11,SLOWER THAN PEERS,229.74,MISSOURI BAPTIST
+Chad Perez,494-25-5717,Javanese,Licensed conveyancer,1.69,106.63,64.71,UNABLE TO LEAVE HOME,109.33,BJC
+Amy Harper,112-40-4582,Tigrinya,Hospital pharmacist,1.75,95.85,65.99,ONLY STRENUOUS EXERCISE,338.25,MISSOURI BAPTIST
+Monica Williamson,121-61-4241,Marshallese,Research officer political party,1.73,98.05,49.99,WHEN HURRYING,58.58,BJC WEST COUNTY
+Todd Austin,648-20-9647,Western Frisian,Chief Strategy Officer,1.61,86.28,48.44,STOPS AFTER 100 YARDS,149.7,MISSOURI BAPTIST
+James Smith,887-59-3360,Tahitian,Engineer control and instrumentation,1.7,93.84,64.45,STOPS WHEN WALKING AT PACE,104.62,SAINT LOUIS UNIVERSITY
+Robert Lowe,478-08-0500,Luba-Katanga,Magazine features editor,1.53,105.02,49.21,ONLY STRENUOUS EXERCISE,80.04,BJC
+Amy Vasquez,070-77-7736,Urdu,Public house manager,1.51,112.88,65.27,ONLY STRENUOUS EXERCISE,149.59,MISSOURI BAPTIST
+Stephen Hess,210-72-7134,Interlingua,Editor magazine features,1.7,110.9,65.93,STOPS AFTER 100 YARDS,243.01,ST.LUKE'S
+John Brown,287-37-3763,Inupiaq,Engineer drilling,1.65,101.52,40.66,WHEN HURRYING,378.44,ST.MARY'S
+Robert Williams,448-35-3509,Zhuang,Doctor hospital,1.72,109.97,53.62,ONLY STRENUOUS EXERCISE,347.6,BJC
+Daniel Hamilton,572-31-4654,Tagalog,Herbalist,1.68,106.35,41.63,STOPS WHEN WALKING AT PACE,331.19,BJC WEST COUNTY
+Jennifer Diaz,613-68-6751,Czech,Textile designer,1.57,115.71,45.15,BREATHLESS WHEN DRESSING,317.73,BJC WEST COUNTY
+Karen Taylor,519-02-2356,Wolof,Health physicist,1.7,81.81,89.56,BREATHLESS WHEN DRESSING,244.99,ST.LUKE'S
+Amy Mitchell,117-76-3529,Georgian,Copywriter advertising,1.54,83.63,84.86,UNABLE TO LEAVE HOME,201.13,BJC
+Jacqueline Castillo,800-06-2249,Belarusian,Biomedical engineer,1.63,90.16,40.39,ONLY STRENUOUS EXERCISE,374.41,BJC WEST COUNTY
+Samuel Santana,182-10-6691,Sundanese,Public house manager,1.8,111.6,53.6,WALKING UPHILL,41.67,MISSOURI BAPTIST
+Kevin Hartman,166-96-4935,Nepali,Newspaper journalist,1.56,78.36,74.43,STOPS WHEN WALKING AT PACE,334.49,ST.LUKE'S
+Mr. Jeffrey Gomez,848-93-7634,Inupiaq,Animator,1.63,112.49,57.36,UNABLE TO LEAVE HOME,200.39,MISSOURI BAPTIST
+Antonio Greene,118-69-8708,Abkhazian,Diplomatic Services operational officer,1.71,110.5,57.94,WHEN HURRYING,363.09,ST.MARY'S
+Lindsey Lewis,285-11-5067,Manx,Lobbyist,1.63,96.91,38.13,WHEN HURRYING,235.42,BJC
+Jennifer Perez,167-45-1606,Bosnian,Dancer,1.74,84.05,31.49,WHEN HURRYING,339.8,BJC
+Tara Johns,387-10-7237,Sinhala,Geneticist molecular,1.59,113.8,25.28,SLOWER THAN PEERS,309.73,SAINT LOUIS UNIVERSITY
+Matthew Roberts,278-14-4303,Kongo,Chartered legal executive (England and Wales),1.6,107.85,54.68,ONLY STRENUOUS EXERCISE,76.5,ST.MARY'S
+Theresa Miller,752-94-4189,Polish,Doctor hospital,1.59,114.98,42.63,SLOWER THAN PEERS,329.56,ST.MARY'S
+Michael Salinas,770-09-0572,Aymara,Restaurant manager fast food,1.52,106.15,42.92,BREATHLESS WHEN DRESSING,40.65,MISSOURI BAPTIST
+Leslie Hudson,066-31-6242,Tamil,Scientist forensic,1.7,91.06,96.18,STOPS AFTER 100 YARDS,373.33,ST.LUKE'S
+Daniel Gilmore,823-42-1027,English,Oceanographer,1.68,91.85,84.72,WHEN HURRYING,257.3,MISSOURI BAPTIST
+George Perez,733-49-4409,Bambara,Waste management officer,1.62,108.34,53.37,STOPS AFTER 100 YARDS,185.28,BJC
+Kristine Kelly,162-27-6016,Aragonese,Interpreter,1.52,88.79,82.08,SLOWER THAN PEERS,249.69,BJC WEST COUNTY
+Grant Clements,505-80-9210,Tajik,Forensic psychologist,1.58,83.38,45.28,SLOWER THAN PEERS,9.59,ST.MARY'S
+April Johnston,509-99-2819,Tsonga,Physiological scientist,1.78,102.49,42.48,WALKING UPHILL,367.08,ST.LUKE'S
+Jason Robinson,316-47-5717,Aragonese,Mental health nurse,1.61,88.28,49.83,UNABLE TO LEAVE HOME,198.74,MISSOURI BAPTIST
+Dustin Brandt,391-60-4800,Twi,Technical sales engineer,1.74,88.94,72.37,STOPS AFTER A FEW MINUTES,88.77,BJC WEST COUNTY
+Jack Dunn,793-04-2950,Tsonga,Civil engineer contracting,1.58,99.29,98.25,STOPS WHEN WALKING AT PACE,173.99,SAINT LOUIS UNIVERSITY
+Patricia Watson,681-89-9717,Mongolian,Licensed conveyancer,1.78,79.17,74.81,WALKING UPHILL,100.74,BJC
+Shirley Williams,297-54-7753,Central Khmer,Occupational hygienist,1.55,85.01,25.26,STOPS WHEN WALKING AT PACE,17.0,BJC WEST COUNTY
+Garrett Rivera,872-04-8535,Ossetian,Clinical molecular geneticist,1.72,109.07,73.54,SLOWER THAN PEERS,395.85,ST.MARY'S
+Shirley Jones,700-50-1843,Mongolian,Psychotherapist,1.71,81.79,56.94,BREATHLESS WHEN DRESSING,341.31,MISSOURI BAPTIST
+Thomas Curtis,229-62-1587,Gaelic,Public librarian,1.57,110.53,78.02,STOPS WHEN WALKING AT PACE,131.25,MISSOURI BAPTIST
+Antonio Hanson,843-96-0995,Hebrew,Camera operator,1.62,90.36,96.6,WALKING UPHILL,145.07,ST.LUKE'S
+Pamela Roberts,226-07-3458,Sardinian,Development worker community,1.51,98.51,64.43,UNABLE TO LEAVE HOME,288.0,SAINT LOUIS UNIVERSITY
+Andrea Kim,015-59-5389,Igbo,Phytotherapist,1.54,98.69,39.44,ONLY STRENUOUS EXERCISE,86.36,SAINT LOUIS UNIVERSITY
+Michael West,599-49-6812,Belarusian,Animal nutritionist,1.67,105.81,96.77,SLOWER THAN PEERS,278.77,ST.LUKE'S
+Diana Perez,736-57-1317,Armenian,Adult nurse,1.75,87.09,61.32,STOPS AFTER 100 YARDS,270.37,BJC WEST COUNTY
+Steve Jones,649-44-2298,Haitian,Associate Professor,1.61,105.91,41.99,ONLY STRENUOUS EXERCISE,218.47,ST.LUKE'S
+Kerry Ali,718-27-6950,Navajo,Health physicist,1.74,81.98,81.45,WHEN HURRYING,239.86,SAINT LOUIS UNIVERSITY
+Megan Jenkins,319-60-8018,Marathi,Radiographer therapeutic,1.59,101.62,32.96,SLOWER THAN PEERS,9.86,BJC
+Michael Kennedy,716-48-7369,South Ndebele,Marketing executive,1.68,82.77,48.78,BREATHLESS WHEN DRESSING,52.13,ST.LUKE'S
+Vicki Riley,874-67-9587,Kirghiz,Technical brewer,1.65,110.07,48.12,WHEN HURRYING,90.98,SAINT LOUIS UNIVERSITY
+Eric Parks,322-13-5221,Lao,Environmental consultant,1.68,78.28,49.8,STOPS WHEN WALKING AT PACE,352.59,BJC
+James Avery,711-68-1209,Catalan,Arts administrator,1.65,88.43,43.58,ONLY STRENUOUS EXERCISE,144.73,BJC
+Patrick Berry,762-49-3969,Komi,Medical secretary,1.75,98.78,87.34,STOPS WHEN WALKING AT PACE,201.77,MISSOURI BAPTIST
+Connie Campbell,499-62-1869,Tajik,Armed forces operational officer,1.73,81.27,61.8,BREATHLESS WHEN DRESSING,313.89,BJC WEST COUNTY
+Terri Kelly MD,126-28-7891,Avestan,Magazine features editor,1.59,108.81,97.96,STOPS AFTER A FEW MINUTES,348.68,MISSOURI BAPTIST
+Cristian Cruz,852-96-9407,Irish,Energy manager,1.71,88.55,36.44,SLOWER THAN PEERS,8.41,BJC
+David King,025-92-2355,Burmese,Conservator museum/gallery,1.52,106.12,55.36,STOPS WHEN WALKING AT PACE,264.61,MISSOURI BAPTIST
+Sarah Hogan,806-05-2926,Fijian,Biomedical scientist,1.54,88.25,44.69,WALKING UPHILL,265.99,SAINT LOUIS UNIVERSITY
+Cassandra Stone,314-12-7666,Yoruba,Advertising art director,1.78,81.16,77.1,BREATHLESS WHEN DRESSING,125.0,ST.LUKE'S
+Andrea Perkins,540-16-0281,Malayalam,Air cabin crew,1.57,94.34,25.94,BREATHLESS WHEN DRESSING,238.52,ST.MARY'S
+Daniel Abbott,829-34-1006,Aymara,Commissioning editor,1.63,88.44,32.39,STOPS AFTER 100 YARDS,227.77,BJC
+Steve Black,149-81-7779,Bislama,Commercial/residential surveyor,1.56,83.14,85.34,STOPS AFTER 100 YARDS,368.29,SAINT LOUIS UNIVERSITY
+David Hanson,258-07-6420,Thai,Engineer broadcasting (operations),1.55,107.19,48.78,STOPS WHEN WALKING AT PACE,162.73,SAINT LOUIS UNIVERSITY
+Denise Buchanan,288-80-1881,Malay,Minerals surveyor,1.61,105.99,96.94,UNABLE TO LEAVE HOME,58.81,MISSOURI BAPTIST
+Jennifer Adams,846-89-8841,Czech,Advertising account planner,1.56,79.4,74.23,WHEN HURRYING,329.73,MISSOURI BAPTIST
+Carrie Jackson,592-95-3784,Wolof,Scientist forensic,1.78,102.56,58.55,STOPS AFTER A FEW MINUTES,395.55,BJC WEST COUNTY
+Zachary Hines,695-14-2569,Haitian,Civil Service administrator,1.69,83.83,45.91,STOPS WHEN WALKING AT PACE,29.25,ST.MARY'S
+Brian Morgan,032-94-8008,Turkmen,Accommodation manager,1.56,112.1,50.33,WHEN HURRYING,222.0,ST.MARY'S
+Wanda Olson,816-63-8432,Assamese,Scientific laboratory technician,1.53,86.41,26.03,STOPS WHEN WALKING AT PACE,4.78,BJC
+Jennifer Contreras,411-45-2080,Bislama,TEFL teacher,1.73,117.15,58.98,STOPS AFTER A FEW MINUTES,62.18,BJC
+Robert Ferguson,002-03-9802,Afrikaans,Engineer broadcasting (operations),1.74,107.69,75.27,WHEN HURRYING,308.29,ST.MARY'S
+Savannah Webb,111-11-2454,Yoruba,Counselling psychologist,1.64,106.98,26.21,STOPS AFTER A FEW MINUTES,65.74,MISSOURI BAPTIST
+Catherine Christian,427-34-7335,Occitan,Radiographer therapeutic,1.6,97.61,72.28,BREATHLESS WHEN DRESSING,152.69,ST.LUKE'S
+Briana Reed,763-22-9239,Kongo,Airline pilot,1.55,98.62,36.55,STOPS AFTER 100 YARDS,334.06,BJC WEST COUNTY
+Michael Garcia,428-78-5452,Chuvash,Proofreader,1.77,104.34,46.08,STOPS WHEN WALKING AT PACE,37.56,ST.LUKE'S
+William Smith,768-35-7869,Serbian,Osteopath,1.67,92.17,59.84,SLOWER THAN PEERS,26.79,ST.LUKE'S
+Christopher Houston,804-13-8280,Polish,Structural engineer,1.63,96.55,53.89,UNABLE TO LEAVE HOME,44.75,ST.MARY'S
+Joanne Rivera,176-10-3201,Tonga,Technical brewer,1.57,96.51,96.94,STOPS AFTER A FEW MINUTES,298.35,BJC WEST COUNTY
+Lisa Lopez,190-56-1002,Spanish,Lighting technician broadcasting/film/video,1.59,106.64,26.09,UNABLE TO LEAVE HOME,399.89,MISSOURI BAPTIST
+Nancy Shelton,895-82-0181,Aragonese,Surveyor hydrographic,1.7,94.61,36.87,UNABLE TO LEAVE HOME,306.27,ST.LUKE'S
+Caitlin Little,193-66-4490,Lingala,Pilot airline,1.75,86.64,91.4,STOPS AFTER 100 YARDS,184.72,ST.LUKE'S
+Susan Watts,231-67-5539,Ndonga,Further education lecturer,1.53,82.11,60.63,WALKING UPHILL,323.74,BJC WEST COUNTY
+Dana Wilson,428-25-3316,Tibetan,Environmental manager,1.56,97.4,55.23,STOPS AFTER 100 YARDS,342.59,ST.MARY'S
+Thomas Lopez,061-90-6477,Lingala,Administrator Civil Service,1.63,90.82,41.88,SLOWER THAN PEERS,356.33,ST.LUKE'S
+David Miles,313-36-2042,Akan,Location manager,1.56,107.94,37.62,BREATHLESS WHEN DRESSING,195.57,BJC
+Derrick Henderson,015-48-4572,Divehi,Drilling engineer,1.7,107.11,29.44,SLOWER THAN PEERS,341.82,MISSOURI BAPTIST
+Christine Smith,375-51-0355,Ojibwa,Metallurgist,1.58,84.07,48.84,STOPS WHEN WALKING AT PACE,380.65,SAINT LOUIS UNIVERSITY
+Tara Ramsey,857-83-0094,Sotho Southern,Insurance broker,1.68,93.35,60.84,WHEN HURRYING,215.81,BJC WEST COUNTY
+Barbara Cummings,220-32-5840,Komi,Counselling psychologist,1.59,96.33,41.71,STOPS AFTER A FEW MINUTES,115.93,ST.LUKE'S
+Eric Kim,063-89-3793,Maltese,Acupuncturist,1.67,97.02,58.1,UNABLE TO LEAVE HOME,57.34,MISSOURI BAPTIST
+Ashley Cruz,738-53-9756,Tonga,Engineering geologist,1.67,91.05,80.92,BREATHLESS WHEN DRESSING,34.88,BJC
+Nicole Davis,524-59-5984,Gujarati,Warden/ranger,1.61,102.63,60.07,STOPS WHEN WALKING AT PACE,163.88,MISSOURI BAPTIST
+Robert Marshall,774-59-0551,Turkish,Architectural technologist,1.74,113.78,70.57,WHEN HURRYING,266.31,ST.LUKE'S
+Terri Phillips,192-14-7486,Inupiaq,Sub,1.52,112.91,53.51,STOPS AFTER A FEW MINUTES,128.35,ST.MARY'S
+Bradley Zavala,654-93-7406,Dzongkha,Visual merchandiser,1.74,102.46,67.49,STOPS WHEN WALKING AT PACE,165.44,SAINT LOUIS UNIVERSITY
+Erin Turner,667-68-1460,Serbian,Surveyor mining,1.74,85.86,85.2,STOPS AFTER 100 YARDS,318.8,ST.MARY'S
+Jackie Lee,517-75-3689,Kuanyama,Designer multimedia,1.59,108.84,96.05,WALKING UPHILL,304.34,SAINT LOUIS UNIVERSITY
+Joseph Burnett,051-85-4063,Interlingua,Scientist clinical (histocompatibility and immunogenetics),1.6,87.01,39.26,BREATHLESS WHEN DRESSING,16.76,SAINT LOUIS UNIVERSITY
+Cassandra Marks,384-36-9709,Church Slavic,Air cabin crew,1.64,90.8,98.85,BREATHLESS WHEN DRESSING,64.15,ST.LUKE'S
+Steven Massey,625-75-1474,Hindi,Education administrator,1.65,103.43,34.48,WHEN HURRYING,194.75,SAINT LOUIS UNIVERSITY
+Anthony Summers,780-47-1293,Polish,Politician's assistant,1.67,82.94,77.34,STOPS AFTER 100 YARDS,153.06,BJC WEST COUNTY
+Brian Sullivan,754-60-2589,German,Radio producer,1.75,111.36,92.92,WALKING UPHILL,63.88,MISSOURI BAPTIST
+Shirley Garcia,751-83-0998,Macedonian,Drilling engineer,1.62,102.28,70.09,SLOWER THAN PEERS,146.48,ST.LUKE'S
+Anthony Cruz,573-67-1890,Kuanyama,Special effects artist,1.51,92.14,77.91,UNABLE TO LEAVE HOME,149.99,BJC WEST COUNTY
+Barbara Miller,322-09-3952,Sanskrit,Chief Marketing Officer,1.66,90.74,43.88,BREATHLESS WHEN DRESSING,292.88,ST.MARY'S
+Margaret Bartlett,105-01-7573,Abkhazian,Commercial art gallery manager,1.63,102.39,82.71,ONLY STRENUOUS EXERCISE,200.99,BJC
+Rebecca Hunter,311-79-7439,Herero,Health and safety inspector,1.69,111.27,97.56,BREATHLESS WHEN DRESSING,68.7,BJC
+Andrew Cabrera,784-66-8342,Malayalam,Psychologist forensic,1.76,109.5,44.55,BREATHLESS WHEN DRESSING,81.71,BJC WEST COUNTY
+Jeremy Mitchell,127-96-7796,Herero,Child psychotherapist,1.7,97.71,87.01,UNABLE TO LEAVE HOME,291.36,BJC
+Erin Gonzalez,799-62-1050,Kirghiz,Engineer maintenance (IT),1.69,81.63,40.37,STOPS WHEN WALKING AT PACE,44.08,ST.LUKE'S
+James Powell,247-15-1986,Corsican,Systems analyst,1.55,109.25,42.67,STOPS AFTER A FEW MINUTES,150.72,MISSOURI BAPTIST
+William Bailey,342-90-5035,North Ndebele,Comptroller,1.58,106.83,32.71,ONLY STRENUOUS EXERCISE,265.88,ST.MARY'S
+Megan White,598-34-3354,Yoruba,Further education lecturer,1.61,103.6,71.94,BREATHLESS WHEN DRESSING,134.19,ST.MARY'S
+William Murphy,456-40-6816,Uighur,Copywriter advertising,1.5,84.98,83.14,WALKING UPHILL,299.63,BJC
+Robert Rodriguez,723-04-4335,Armenian,Education administrator,1.72,88.36,93.28,BREATHLESS WHEN DRESSING,133.47,SAINT LOUIS UNIVERSITY
+David Mcdonald,386-63-3023,Kongo,Clinical biochemist,1.57,108.72,25.34,WHEN HURRYING,376.96,ST.MARY'S
+Jennifer Hart,077-57-6145,Interlingue,Radio broadcast assistant,1.7,100.77,59.82,SLOWER THAN PEERS,266.03,SAINT LOUIS UNIVERSITY
+Anna Clark,713-70-6579,Hungarian,Brewing technologist,1.52,96.92,69.12,STOPS AFTER 100 YARDS,149.49,ST.MARY'S
+Joseph Welch,241-59-6689,Lithuanian,Sound technician broadcasting/film/video,1.52,100.32,77.94,WHEN HURRYING,379.79,ST.MARY'S
+Katrina Gilmore,862-65-1725,Kongo,Sport and exercise psychologist,1.73,102.46,63.14,WHEN HURRYING,31.15,BJC
+Peter Jefferson,144-94-1904,Venda,Horticulturist amenity,1.67,110.5,88.87,ONLY STRENUOUS EXERCISE,176.94,BJC
+Jesse Crawford,868-70-8675,Bambara,Glass blower/designer,1.58,114.54,89.3,WALKING UPHILL,371.43,BJC WEST COUNTY
+Tracy Vaughan,076-09-6297,Interlingue,Quality manager,1.6,106.19,43.47,ONLY STRENUOUS EXERCISE,116.01,MISSOURI BAPTIST
+James Ryan,068-71-7970,Western Frisian,Bonds trader,1.67,100.56,36.54,STOPS WHEN WALKING AT PACE,258.73,BJC
+Jordan Richards,131-82-2608,Zhuang,Patent examiner,1.59,117.87,69.39,WHEN HURRYING,323.64,SAINT LOUIS UNIVERSITY
+Jennifer Walton,274-36-9392,Divehi,Ergonomist,1.77,113.97,31.19,BREATHLESS WHEN DRESSING,158.97,SAINT LOUIS UNIVERSITY
+Kathleen Pineda,446-81-6827,Afar,Engineer communications,1.56,92.17,43.59,STOPS AFTER 100 YARDS,144.69,SAINT LOUIS UNIVERSITY
+William Gray,411-48-8639,Arabic,Adult nurse,1.73,102.93,82.88,ONLY STRENUOUS EXERCISE,273.58,MISSOURI BAPTIST
+Andrea Mccarthy,651-13-9843,Herero,Charity officer,1.72,105.59,50.19,SLOWER THAN PEERS,290.18,BJC WEST COUNTY
+Todd Murphy,569-65-2861,Japanese,Horticulturist amenity,1.51,92.16,50.02,WHEN HURRYING,191.88,MISSOURI BAPTIST
+William Owens,616-74-6515,Gujarati,Warden/ranger,1.63,87.87,44.57,STOPS AFTER 100 YARDS,199.03,ST.LUKE'S
+Valerie Hansen,427-21-8908,Ukrainian,Data scientist,1.76,103.57,44.28,WALKING UPHILL,260.41,ST.MARY'S
+Travis Flores,409-07-8936,Sardinian,Charity officer,1.53,106.19,27.3,STOPS AFTER A FEW MINUTES,24.88,ST.MARY'S
+James Hernandez,403-13-0382,Aragonese,Administrator education,1.63,109.33,52.98,ONLY STRENUOUS EXERCISE,267.92,MISSOURI BAPTIST
+Christopher Bowers,824-68-7127,Chinese,Chief Executive Officer,1.67,89.25,28.44,STOPS AFTER 100 YARDS,132.57,BJC WEST COUNTY
+Vanessa Miller,609-92-5847,Hausa,Therapist art,1.63,84.15,71.02,STOPS WHEN WALKING AT PACE,327.33,MISSOURI BAPTIST
+Joel Dunlap,462-69-9127,Rundi,Haematologist,1.55,83.8,32.79,STOPS AFTER 100 YARDS,37.17,ST.LUKE'S
+Rachel Ortiz,377-84-1565,Malayalam,Pension scheme manager,1.52,86.18,66.74,SLOWER THAN PEERS,244.16,MISSOURI BAPTIST
+Erin Lyons,655-29-8520,Akan,Brewing technologist,1.72,114.25,44.98,ONLY STRENUOUS EXERCISE,371.41,BJC WEST COUNTY
+Rachel Chen,438-67-0100,Czech,Intelligence analyst,1.51,110.29,58.85,STOPS AFTER A FEW MINUTES,377.27,SAINT LOUIS UNIVERSITY
+Mary Wood,609-71-1660,Sundanese,Health and safety inspector,1.51,81.71,85.09,STOPS AFTER 100 YARDS,228.49,ST.LUKE'S
+Glenn Mcintosh,728-13-8263,Hungarian,Administrator sports,1.72,92.11,70.0,SLOWER THAN PEERS,256.56,ST.MARY'S
+Amber Patterson,186-99-9550,Thai,Marketing executive,1.7,91.34,95.6,UNABLE TO LEAVE HOME,56.68,ST.MARY'S
+George Smith,744-58-2011,Kirghiz,Seismic interpreter,1.63,105.01,81.98,STOPS WHEN WALKING AT PACE,143.49,MISSOURI BAPTIST
+Kayla Hammond,677-63-6458,Spanish,Engineering geologist,1.65,101.25,96.72,STOPS AFTER A FEW MINUTES,258.1,MISSOURI BAPTIST
+Aaron Shelton,833-83-4975,Bulgarian,Building surveyor,1.77,117.14,72.82,WALKING UPHILL,369.65,MISSOURI BAPTIST
+Tara James,548-31-4509,Fulah,Estate manager/land agent,1.75,90.73,91.52,STOPS AFTER 100 YARDS,331.81,BJC
+Anne Ferguson,009-54-3609,Portuguese,Special educational needs teacher,1.62,114.49,37.26,WALKING UPHILL,355.35,ST.LUKE'S
+Joshua Ferguson,571-24-7404,Danish,Electronics engineer,1.68,78.76,47.38,SLOWER THAN PEERS,38.94,ST.MARY'S
+Pamela Martin,797-78-6506,Ewe,Civil engineer consulting,1.55,114.91,45.71,ONLY STRENUOUS EXERCISE,184.77,BJC
+Kristen Williams,898-51-6150,Bashkir,Lecturer further education,1.69,82.99,59.78,ONLY STRENUOUS EXERCISE,106.26,BJC
+Paul Donovan,587-39-0309,Shona,Radio broadcast assistant,1.66,107.21,36.34,WHEN HURRYING,73.8,BJC
+Jill Krause,041-77-0631,Interlingua,Administrator arts,1.65,82.65,70.36,WALKING UPHILL,290.76,BJC WEST COUNTY
+Thomas Smith,208-84-3022,Oriya,Film/video editor,1.74,112.04,90.53,UNABLE TO LEAVE HOME,34.89,BJC WEST COUNTY
+Shannon Fowler DDS,846-11-8242,Assamese,Horticulturist commercial,1.53,109.74,95.05,STOPS AFTER A FEW MINUTES,266.8,MISSOURI BAPTIST
+Daniel Burns,236-11-1293,Estonian,Midwife,1.62,106.13,98.28,STOPS WHEN WALKING AT PACE,16.32,ST.MARY'S
+Jonathan Silva,478-76-0658,Hausa,Marketing executive,1.61,87.34,79.68,UNABLE TO LEAVE HOME,24.96,SAINT LOUIS UNIVERSITY
+Sheri Tanner,850-24-8534,Somali,Administrator charities/voluntary organisations,1.59,92.74,49.34,UNABLE TO LEAVE HOME,133.06,BJC WEST COUNTY
+Fred Clark,621-77-2866,Vietnamese,Visual merchandiser,1.67,96.96,39.39,WHEN HURRYING,323.26,BJC WEST COUNTY
+Mrs. Tracy Mercer,751-08-0302,Lao,Technical author,1.72,92.35,50.98,UNABLE TO LEAVE HOME,64.27,BJC
+Ryan Reynolds,298-18-8642,Corsican,Land/geomatics surveyor,1.56,85.35,29.72,ONLY STRENUOUS EXERCISE,232.8,ST.LUKE'S
+Kelsey Roberson,476-75-7790,Navajo,Psychologist occupational,1.55,88.13,63.16,SLOWER THAN PEERS,275.48,BJC WEST COUNTY
+Jack Bonilla,449-52-7295,Ndonga,Public relations officer,1.7,89.56,39.77,UNABLE TO LEAVE HOME,280.86,ST.MARY'S
+Melissa Herrera,019-12-5675,Hungarian,Plant breeder/geneticist,1.54,112.92,78.75,STOPS AFTER A FEW MINUTES,232.3,BJC WEST COUNTY
+Lisa Robinson,500-12-6669,Burmese,Designer interior/spatial,1.72,89.01,87.51,BREATHLESS WHEN DRESSING,269.75,BJC
+Megan Marshall,589-29-2362,Belarusian,Podiatrist,1.68,83.75,83.2,STOPS AFTER A FEW MINUTES,141.96,ST.MARY'S
+Ricky Williams,731-35-5707,Pali,Fashion designer,1.52,109.23,89.16,STOPS AFTER A FEW MINUTES,328.94,BJC
+Brandon Wagner,293-02-1021,Divehi,Musician,1.53,115.18,89.2,ONLY STRENUOUS EXERCISE,234.43,ST.LUKE'S
+Gary Cox,894-46-7210,Latvian,Investment banker corporate,1.67,78.53,99.88,STOPS WHEN WALKING AT PACE,196.22,MISSOURI BAPTIST
+Edward Joyce,403-80-8539,Avaric,Teacher early years/pre,1.63,82.15,56.39,BREATHLESS WHEN DRESSING,93.72,ST.LUKE'S
+Angela Cruz,096-41-6934,Hausa,Equality and diversity officer,1.58,116.57,54.73,WHEN HURRYING,264.87,BJC
+Billy Smith,707-29-2237,Bosnian,Engineer electrical,1.65,82.5,31.72,WHEN HURRYING,389.86,BJC WEST COUNTY
+Steven Baker,249-01-2216,Assamese,Human resources officer,1.77,96.14,49.84,STOPS AFTER A FEW MINUTES,183.02,ST.LUKE'S
+Daniel Black,739-16-2343,Bulgarian,Broadcast journalist,1.63,87.62,25.81,STOPS AFTER A FEW MINUTES,304.74,SAINT LOUIS UNIVERSITY
+Tyler Hill,633-99-3760,Western Frisian,Multimedia programmer,1.71,86.55,77.97,ONLY STRENUOUS EXERCISE,285.05,ST.LUKE'S
+Stephanie Johnson,240-59-3247,Xhosa,Prison officer,1.61,91.9,77.57,STOPS AFTER 100 YARDS,75.09,BJC WEST COUNTY
+Crystal Bryant,790-44-0702,Ukrainian,Podiatrist,1.76,101.81,79.84,WALKING UPHILL,196.02,SAINT LOUIS UNIVERSITY
+Julie Ingram,603-24-2558,Tibetan,Best boy,1.57,78.41,49.16,WALKING UPHILL,271.11,BJC
+Danielle Mckenzie,775-06-0923,Kanuri,Radiographer diagnostic,1.64,91.13,35.41,BREATHLESS WHEN DRESSING,143.85,BJC WEST COUNTY
+Craig Poole,838-32-4982,Luba-Katanga,Sound technician broadcasting/film/video,1.64,95.99,74.92,ONLY STRENUOUS EXERCISE,380.02,BJC
+Melissa Lee,054-95-5814,Marathi,Tax inspector,1.62,108.45,84.01,BREATHLESS WHEN DRESSING,265.24,SAINT LOUIS UNIVERSITY
+Rebecca Fox,489-28-8201,Uighur,Fashion designer,1.71,81.84,25.6,STOPS WHEN WALKING AT PACE,302.11,MISSOURI BAPTIST
+Justin Le,057-57-8124,Lithuanian,Administrator charities/voluntary organisations,1.8,85.74,38.75,STOPS WHEN WALKING AT PACE,382.2,SAINT LOUIS UNIVERSITY
+Chad Gregory,226-04-4252,Azerbaijani,Astronomer,1.75,99.04,84.14,SLOWER THAN PEERS,204.57,BJC WEST COUNTY
+Marissa Park,235-39-8460,Croatian,Sports administrator,1.67,115.66,98.82,WALKING UPHILL,175.18,SAINT LOUIS UNIVERSITY
+Sandra Smith,233-46-6440,Tagalog,Health promotion specialist,1.73,90.94,59.93,WHEN HURRYING,328.64,BJC
+Jason Tran,692-75-3342,Basque,Transport planner,1.51,98.28,29.1,UNABLE TO LEAVE HOME,93.65,BJC WEST COUNTY
+Andrea Young,622-16-9822,Uzbek,Occupational hygienist,1.6,81.44,35.0,SLOWER THAN PEERS,379.82,ST.LUKE'S
+Shelley Wilson,629-26-9269,Lithuanian,Intelligence analyst,1.55,90.68,96.61,WHEN HURRYING,114.01,MISSOURI BAPTIST
+Robert Sharp,727-78-6205,Zulu,Teaching laboratory technician,1.53,114.29,71.62,UNABLE TO LEAVE HOME,102.62,BJC WEST COUNTY
+Stephanie Scott,245-99-8157,Hiri Motu,Air traffic controller,1.68,94.88,92.65,WALKING UPHILL,53.26,ST.LUKE'S
+Amanda Griffith,845-53-4786,Galician,Early years teacher,1.53,111.23,33.05,BREATHLESS WHEN DRESSING,314.03,MISSOURI BAPTIST
+Rodney Smith,828-24-2764,Slovak,Health promotion specialist,1.63,81.12,63.56,STOPS AFTER A FEW MINUTES,236.52,BJC WEST COUNTY
+Kaitlin Young,310-47-8902,Hausa,Retail merchandiser,1.72,102.32,47.53,ONLY STRENUOUS EXERCISE,109.79,BJC WEST COUNTY
+Darlene Reyes,282-39-6290,Bislama,Exercise physiologist,1.58,109.5,78.4,WHEN HURRYING,163.92,BJC
+Russell Murray,281-91-5100,Irish,Pensions consultant,1.66,99.85,80.46,WHEN HURRYING,106.97,ST.LUKE'S
+Bradley Parker,385-07-5218,Tigrinya,Glass blower/designer,1.75,91.97,57.83,STOPS WHEN WALKING AT PACE,140.33,ST.LUKE'S
+Matthew Fischer,154-81-7527,Ndonga,Translator,1.6,103.65,87.93,ONLY STRENUOUS EXERCISE,114.3,ST.LUKE'S
+Vincent Berger,604-09-1502,Bambara,Writer,1.77,102.1,38.14,WHEN HURRYING,372.15,ST.LUKE'S
+Andrew Baker,336-39-7096,Occitan,Government social research officer,1.72,92.35,62.54,STOPS WHEN WALKING AT PACE,340.6,BJC
+Angela Parsons,616-03-3215,Cornish,Structural engineer,1.6,86.92,43.4,ONLY STRENUOUS EXERCISE,393.69,BJC WEST COUNTY
+Victoria Baker,576-96-6857,Amharic,Science writer,1.77,117.39,51.83,WHEN HURRYING,113.99,ST.LUKE'S
+Renee Hopkins,100-66-3176,Corsican,Equality and diversity officer,1.62,106.56,68.07,STOPS AFTER A FEW MINUTES,165.44,BJC WEST COUNTY
+Leslie Hunter,372-51-1565,Telugu,Forest/woodland manager,1.77,106.75,93.39,WALKING UPHILL,25.65,MISSOURI BAPTIST
+Susan Graham,161-33-7162,Yoruba,Psychologist clinical,1.63,103.72,82.58,STOPS AFTER 100 YARDS,51.17,BJC WEST COUNTY
+Timothy White,479-60-3023,Afrikaans,Designer industrial/product,1.51,85.45,25.51,STOPS AFTER 100 YARDS,265.5,SAINT LOUIS UNIVERSITY
+Shannon Hamilton,288-66-1175,Tahitian,Minerals surveyor,1.58,99.9,26.13,WHEN HURRYING,307.07,BJC WEST COUNTY
+Brian Olson,111-95-7887,Chinese,Engineer manufacturing,1.61,111.47,53.93,SLOWER THAN PEERS,378.12,ST.MARY'S
+Rodney Sherman,103-23-6126,Irish,Product/process development scientist,1.71,78.78,73.88,WALKING UPHILL,289.62,ST.MARY'S
+Daniel Harris,624-45-7392,Kanuri,Education officer environmental,1.77,103.72,48.04,SLOWER THAN PEERS,254.6,BJC WEST COUNTY
+April Marks,525-66-6845,Tagalog,Therapist drama,1.6,102.35,48.54,STOPS AFTER A FEW MINUTES,388.62,ST.MARY'S
+Michael Rose,699-85-9939,Uzbek,Advertising art director,1.68,100.95,47.88,STOPS WHEN WALKING AT PACE,205.76,BJC
+Alexander Cervantes,312-89-9934,Western Frisian,Materials engineer,1.63,105.43,97.82,WHEN HURRYING,159.58,SAINT LOUIS UNIVERSITY
+Lauren Aguilar,706-57-1197,Romansh,Designer textile,1.72,109.07,61.04,SLOWER THAN PEERS,20.23,MISSOURI BAPTIST
+Adam Bass,330-43-5037,Swahili,Intelligence analyst,1.75,113.74,42.47,STOPS AFTER A FEW MINUTES,360.42,BJC
+Rhonda Williams,788-40-8103,Gaelic,Financial adviser,1.63,113.68,37.99,WALKING UPHILL,61.21,BJC WEST COUNTY
+Melissa White,286-10-3016,Chinese,Computer games developer,1.76,92.81,87.79,SLOWER THAN PEERS,375.67,ST.LUKE'S
+David Li,365-06-2211,Slovenian,Estate manager/land agent,1.8,88.06,97.49,STOPS AFTER 100 YARDS,349.02,BJC
+Emily Mcclure,660-67-2397,Swahili,Accountant chartered public finance,1.54,105.37,52.86,UNABLE TO LEAVE HOME,72.22,ST.LUKE'S
+Donald Rogers,081-03-6133,Kuanyama,Radiographer diagnostic,1.67,103.03,42.59,BREATHLESS WHEN DRESSING,261.49,ST.LUKE'S
+Shane Haley,210-35-6840,Uighur,Surveyor building control,1.75,84.43,26.96,UNABLE TO LEAVE HOME,149.65,SAINT LOUIS UNIVERSITY
+John Perez,719-53-3085,Malagasy,Comptroller,1.66,91.9,97.65,BREATHLESS WHEN DRESSING,395.54,ST.LUKE'S
+Raymond Frye,618-83-3164,Uighur,IT sales professional,1.6,99.25,82.06,SLOWER THAN PEERS,91.34,ST.LUKE'S
+Richard James,532-22-5110,Tatar,Surveyor minerals,1.59,107.31,65.64,UNABLE TO LEAVE HOME,246.26,BJC
+Gerald Walters,126-24-3930,Hausa,Designer textile,1.74,108.86,60.17,STOPS WHEN WALKING AT PACE,76.33,ST.LUKE'S
+Jesus Shepherd,843-35-0471,Mongolian,Building control surveyor,1.62,111.24,37.44,BREATHLESS WHEN DRESSING,142.39,ST.MARY'S
+Cindy Garrett,557-21-0634,Breton,Industrial/product designer,1.59,103.52,34.23,BREATHLESS WHEN DRESSING,87.34,BJC
+Richard Johnston,583-59-8878,Walloon,Physiological scientist,1.5,112.2,48.4,WALKING UPHILL,262.91,ST.LUKE'S
+Jennifer Reyes,845-92-8909,Abkhazian,Embryologist clinical,1.51,92.88,31.0,ONLY STRENUOUS EXERCISE,83.34,MISSOURI BAPTIST
+Dawn Coleman,485-05-9985,Maltese,Tax inspector,1.79,115.41,86.81,WHEN HURRYING,359.06,SAINT LOUIS UNIVERSITY
+Amy Schmidt,691-75-1058,Bashkir,Barrister,1.53,116.66,74.49,WALKING UPHILL,199.74,MISSOURI BAPTIST
+Jonathan Mcdaniel,819-65-1831,Oromo,Nature conservation officer,1.61,99.3,34.59,UNABLE TO LEAVE HOME,71.13,ST.MARY'S
+Diane Howard,539-76-7025,Dzongkha,Legal executive,1.61,97.08,50.92,ONLY STRENUOUS EXERCISE,234.45,BJC
+Lisa Wilkerson,473-87-6499,Bambara,Housing manager/officer,1.53,78.8,42.86,WALKING UPHILL,48.07,SAINT LOUIS UNIVERSITY
+Jason King,669-05-4102,Bashkir,Chemist analytical,1.69,104.64,27.51,STOPS AFTER A FEW MINUTES,133.14,ST.MARY'S
+Alyssa Mata,260-63-0514,Aragonese,Lecturer further education,1.68,92.26,63.03,STOPS AFTER A FEW MINUTES,295.8,ST.LUKE'S
+Helen Silva,171-65-9852,Tatar,Accountant chartered,1.62,95.95,77.87,STOPS AFTER 100 YARDS,35.86,BJC
+William Simon,057-55-9356,Western Frisian,Chemical engineer,1.6,90.87,26.38,ONLY STRENUOUS EXERCISE,297.25,BJC
+Melissa Campbell,519-10-4892,Romansh,Surgeon,1.5,103.07,75.64,SLOWER THAN PEERS,243.73,BJC WEST COUNTY
+Kevin Burnett,569-75-4353,Norwegian,Therapeutic radiographer,1.65,111.14,53.17,WALKING UPHILL,13.44,ST.LUKE'S
+Derek Mosley,190-55-1739,Luba-Katanga,Chartered legal executive (England and Wales),1.75,114.52,92.16,WHEN HURRYING,220.53,ST.MARY'S
+Mary Nicholson,172-53-0448,Chichewa,Seismic interpreter,1.54,100.21,87.2,BREATHLESS WHEN DRESSING,69.65,MISSOURI BAPTIST
+Caitlyn Bennett,831-57-0797,Mongolian,Operations geologist,1.75,105.73,70.35,BREATHLESS WHEN DRESSING,94.3,BJC
+Karen Byrd,535-81-9973,Kanuri,Public relations officer,1.69,97.4,58.56,WALKING UPHILL,204.27,MISSOURI BAPTIST
+Latasha Hawkins,316-29-1938,Ndonga,Microbiologist,1.76,92.16,77.44,WALKING UPHILL,108.0,MISSOURI BAPTIST
+Melissa Rodriguez,734-49-4430,Northern Sami,Hydrographic surveyor,1.75,81.74,92.59,SLOWER THAN PEERS,236.99,BJC
+Brian Holt,535-62-5957,Tagalog,Farm manager,1.57,86.62,48.83,SLOWER THAN PEERS,161.96,SAINT LOUIS UNIVERSITY
+Ian Shaw,224-10-3960,Dutch,Data scientist,1.53,88.38,48.66,STOPS WHEN WALKING AT PACE,129.76,BJC
+Thomas Chavez,476-26-1413,Sichuan Yi,Journalist newspaper,1.6,92.92,99.63,WALKING UPHILL,394.11,ST.LUKE'S
+Jon Mcintyre,252-64-2913,Slovenian,Civil engineer contracting,1.76,106.52,39.87,ONLY STRENUOUS EXERCISE,300.33,SAINT LOUIS UNIVERSITY
+Emily Haynes,886-09-0521,Malayalam,Buyer retail,1.67,105.8,58.08,STOPS AFTER A FEW MINUTES,177.76,BJC WEST COUNTY
+Hannah Mcknight,891-02-5507,Sardinian,English as a second language teacher,1.76,117.45,87.94,STOPS AFTER 100 YARDS,328.99,BJC
+David Massey,241-26-4731,Occitan,Make,1.52,80.47,91.34,ONLY STRENUOUS EXERCISE,226.37,SAINT LOUIS UNIVERSITY
+Jill Colon,164-19-8582,Interlingua,Administrator sports,1.55,107.67,72.62,UNABLE TO LEAVE HOME,332.92,MISSOURI BAPTIST
+Sandra Wright,894-13-3896,Bosnian,Chief Marketing Officer,1.64,104.37,72.42,UNABLE TO LEAVE HOME,180.89,SAINT LOUIS UNIVERSITY
+Veronica Wagner,290-46-4283,Aragonese,Building surveyor,1.79,101.36,53.08,BREATHLESS WHEN DRESSING,363.06,MISSOURI BAPTIST
+Tonya Harris,398-53-4877,Irish,Engineer control and instrumentation,1.76,110.93,55.91,BREATHLESS WHEN DRESSING,317.96,MISSOURI BAPTIST
+Walter Lewis,101-25-2006,Telugu,Psychiatrist,1.61,99.62,29.81,SLOWER THAN PEERS,17.54,ST.MARY'S
+Kari Park,896-83-5294,South Ndebele,Jewellery designer,1.74,116.32,49.66,STOPS AFTER 100 YARDS,17.6,BJC WEST COUNTY
+Chad Pineda,670-83-4820,Malagasy,Surveyor minerals,1.68,99.59,99.54,SLOWER THAN PEERS,57.5,ST.MARY'S
+David Stone,852-08-8133,Amharic,Video editor,1.71,96.49,86.08,STOPS AFTER A FEW MINUTES,337.15,BJC
+Charles Choi,879-27-5884,Maori,Professor Emeritus,1.6,101.82,90.64,STOPS WHEN WALKING AT PACE,33.49,BJC WEST COUNTY
+Randall Butler,132-11-5121,Venda,Prison officer,1.65,91.9,88.97,BREATHLESS WHEN DRESSING,352.44,BJC
+Douglas Turner,450-35-5832,Hungarian,Primary school teacher,1.64,88.89,60.37,STOPS AFTER A FEW MINUTES,348.98,BJC WEST COUNTY
+Madison Mcneil,792-56-0120,Wolof,Designer multimedia,1.78,111.2,33.46,STOPS AFTER 100 YARDS,123.3,SAINT LOUIS UNIVERSITY
+Chad Haney,210-28-4347,Walloon,Patent examiner,1.56,83.12,94.11,STOPS WHEN WALKING AT PACE,114.73,SAINT LOUIS UNIVERSITY
+Ricky Watson,252-62-8813,Persian,Administrator education,1.66,98.64,55.92,WALKING UPHILL,129.22,ST.MARY'S
+Steven Long,598-38-3439,Nepali,Ceramics designer,1.51,110.0,48.46,STOPS AFTER A FEW MINUTES,301.95,BJC
+Jonathan Murray,421-12-6725,Xhosa,Chief Strategy Officer,1.69,88.7,95.63,ONLY STRENUOUS EXERCISE,323.87,MISSOURI BAPTIST
+Jerry Ramirez,736-90-5773,Afrikaans,Equality and diversity officer,1.53,92.11,56.52,STOPS AFTER 100 YARDS,182.41,ST.MARY'S
+Randy Wallace,356-83-3362,Kirghiz,Government social research officer,1.72,113.67,61.96,WHEN HURRYING,306.29,BJC
+Nathan Gonzalez,208-47-5889,Uzbek,Land,1.74,94.89,78.52,STOPS AFTER 100 YARDS,305.83,SAINT LOUIS UNIVERSITY
+Daniel Weiss,830-13-8099,Bulgarian,Art gallery manager,1.54,91.41,29.54,WALKING UPHILL,320.6,BJC
+James Brewer,159-44-6613,Western Frisian,TEFL teacher,1.55,103.54,95.82,WHEN HURRYING,355.52,BJC WEST COUNTY
+Heather Morgan,146-12-9201,Javanese,Airline pilot,1.75,89.62,70.93,SLOWER THAN PEERS,225.92,ST.LUKE'S
+Charles Edwards,383-49-0065,Fijian,Building services engineer,1.53,117.55,38.02,WALKING UPHILL,146.19,SAINT LOUIS UNIVERSITY
+Christina Lewis,624-62-9532,Chamorro,Theme park manager,1.75,116.88,44.47,WALKING UPHILL,163.25,ST.LUKE'S
+Frank Riley,820-56-8976,Uzbek,IT technical support officer,1.72,78.2,91.55,BREATHLESS WHEN DRESSING,121.7,BJC WEST COUNTY
+Rebecca Gomez,551-67-3556,Arabic,Hospital doctor,1.66,114.97,84.3,BREATHLESS WHEN DRESSING,245.25,BJC
+Christopher Pruitt,042-87-0050,Fijian,Engineer civil (consulting),1.6,88.72,91.98,WHEN HURRYING,335.86,MISSOURI BAPTIST
+Dr. Steven Williams DVM,779-78-9905,Quechua,Freight forwarder,1.8,78.61,68.61,STOPS AFTER A FEW MINUTES,55.77,BJC
+Ryan Rush,229-13-8273,Sinhala,Scientist water quality,1.66,89.41,40.53,BREATHLESS WHEN DRESSING,13.3,SAINT LOUIS UNIVERSITY
+Rhonda Carr,773-74-6194,Slovenian,Chiropractor,1.65,109.16,57.89,UNABLE TO LEAVE HOME,170.6,BJC
+Miss Kimberly Rios MD,153-10-4329,Norwegian,Science writer,1.54,105.07,43.94,WHEN HURRYING,273.9,MISSOURI BAPTIST
+Ashley Barton,833-47-9117,Javanese,Air traffic controller,1.71,80.48,30.53,WHEN HURRYING,112.94,BJC WEST COUNTY
+Anna Grant,647-54-9966,Danish,Scientist research (life sciences),1.62,79.49,63.57,ONLY STRENUOUS EXERCISE,235.79,MISSOURI BAPTIST
+Amanda Johnson,389-58-4008,Sundanese,Market researcher,1.55,105.15,51.8,STOPS WHEN WALKING AT PACE,321.29,MISSOURI BAPTIST
+Emily Thomas,476-33-1495,Malay,Development worker international aid,1.69,90.83,66.14,STOPS AFTER 100 YARDS,77.35,MISSOURI BAPTIST
+Christy Jones,826-01-7945,South Ndebele,Research scientist (life sciences),1.53,103.97,28.77,STOPS AFTER 100 YARDS,273.81,BJC
+Danny Foster,669-97-3327,Limburgan,Information systems manager,1.66,105.49,77.71,WHEN HURRYING,94.05,MISSOURI BAPTIST
+James Allen,100-64-3295,Serbian,Textile designer,1.71,82.08,42.29,SLOWER THAN PEERS,203.98,ST.MARY'S
+Tyrone Jimenez,185-07-2763,Malayalam,Writer,1.71,82.73,38.03,BREATHLESS WHEN DRESSING,176.41,SAINT LOUIS UNIVERSITY
+Cynthia Hopkins,430-36-3174,Aragonese,Public relations officer,1.63,98.44,58.3,WALKING UPHILL,351.82,BJC WEST COUNTY
+Devon Wilcox,292-46-5459,Zulu,Magazine features editor,1.58,86.01,79.29,SLOWER THAN PEERS,338.67,ST.LUKE'S
+John Farley,201-98-9781,Swahili,Scientist physiological,1.57,111.4,32.75,STOPS WHEN WALKING AT PACE,343.09,ST.MARY'S
+Hector Arroyo,140-32-7001,Japanese,Amenity horticulturist,1.78,85.5,86.7,STOPS AFTER 100 YARDS,1.15,SAINT LOUIS UNIVERSITY
+Brandon Thompson,421-87-0718,Fulah,Administrator sports,1.76,105.56,96.67,STOPS WHEN WALKING AT PACE,266.09,ST.LUKE'S
+Scott Patel,511-06-8538,Zhuang,Orthoptist,1.77,79.41,36.84,STOPS AFTER A FEW MINUTES,316.3,BJC
+Karen Bishop,177-74-8322,Italian,Designer graphic,1.63,116.4,36.83,SLOWER THAN PEERS,370.43,SAINT LOUIS UNIVERSITY
+Tony Wheeler,658-54-5640,Kalaallisut,Chartered management accountant,1.67,104.87,43.56,ONLY STRENUOUS EXERCISE,219.56,ST.LUKE'S
+Arthur Munoz,425-71-7186,Turkmen,Meteorologist,1.51,113.03,53.08,ONLY STRENUOUS EXERCISE,26.58,BJC
+Edward Holloway,701-10-7672,Kanuri,Special educational needs teacher,1.57,80.78,43.92,STOPS AFTER 100 YARDS,221.97,BJC WEST COUNTY
+Lisa Perry,680-56-1062,Spanish,Clothing/textile technologist,1.71,85.83,93.98,STOPS AFTER A FEW MINUTES,97.63,BJC WEST COUNTY
+Pamela Green,146-77-3901,Gaelic,Engineer civil (contracting),1.73,98.56,48.78,BREATHLESS WHEN DRESSING,174.58,BJC
+Kimberly Macdonald,687-28-4427,Haitian,Programmer multimedia,1.8,100.83,90.28,BREATHLESS WHEN DRESSING,109.69,ST.LUKE'S
+Thomas Colon,321-13-9844,Italian,Surveyor rural practice,1.68,95.11,45.95,STOPS WHEN WALKING AT PACE,284.17,SAINT LOUIS UNIVERSITY
+Paul Davis,697-55-6390,Avestan,Civil Service fast streamer,1.77,89.95,46.15,WHEN HURRYING,357.66,SAINT LOUIS UNIVERSITY
+Ronnie Rush,568-55-9710,Tagalog,Engineer land,1.69,103.54,74.17,UNABLE TO LEAVE HOME,312.58,SAINT LOUIS UNIVERSITY
+Erik Wilson,294-63-4325,Kanuri,Public house manager,1.7,84.65,62.05,SLOWER THAN PEERS,142.21,BJC WEST COUNTY
+Crystal Clark,524-15-4664,Sango,Engineer petroleum,1.51,117.84,48.42,WHEN HURRYING,154.24,SAINT LOUIS UNIVERSITY
+Megan Smith,293-43-8792,Ganda,Advertising account planner,1.6,94.05,30.61,BREATHLESS WHEN DRESSING,38.54,BJC WEST COUNTY
+Jonathan Durham,303-32-6928,Malagasy,Dietitian,1.61,91.02,83.55,SLOWER THAN PEERS,345.32,BJC WEST COUNTY
+Timothy Hawkins,890-61-0858,Arabic,Lawyer,1.52,81.09,67.33,ONLY STRENUOUS EXERCISE,376.35,MISSOURI BAPTIST
+Christopher Perry,377-06-5009,Chichewa,Public relations officer,1.73,95.91,95.23,WHEN HURRYING,325.22,ST.MARY'S
+Samuel Duke,037-88-3790,Javanese,Industrial buyer,1.74,106.28,80.89,STOPS AFTER 100 YARDS,165.24,MISSOURI BAPTIST
+Kevin Mason,605-49-7887,Kurdish,Immigration officer,1.55,112.86,32.93,SLOWER THAN PEERS,16.42,BJC WEST COUNTY
+Ian Clark,852-49-4666,Fijian,Maintenance engineer,1.56,117.62,99.7,UNABLE TO LEAVE HOME,172.88,BJC
+Ryan Boyd,439-95-8748,Chinese,Software engineer,1.71,94.79,32.27,STOPS AFTER 100 YARDS,82.04,BJC WEST COUNTY
+Valerie Calderon,134-17-9161,Guarani,Youth worker,1.78,102.3,61.33,SLOWER THAN PEERS,234.41,ST.MARY'S
+Ryan Davis,440-31-1112,Chuvash,Psychologist sport and exercise,1.61,111.59,91.61,UNABLE TO LEAVE HOME,30.07,ST.LUKE'S
+Sara Smith,548-23-7423,Malay,Engineer petroleum,1.7,110.96,88.25,WHEN HURRYING,378.99,BJC WEST COUNTY
+Samuel Keith,882-65-4166,Tigrinya,Facilities manager,1.68,91.96,26.32,STOPS AFTER A FEW MINUTES,345.51,BJC
+Renee White,078-11-4165,Hausa,Management consultant,1.68,87.45,27.11,ONLY STRENUOUS EXERCISE,342.9,ST.MARY'S
+Heidi Johnson,726-53-4548,Inuktitut,Museum/gallery conservator,1.52,101.99,74.09,STOPS WHEN WALKING AT PACE,14.12,BJC WEST COUNTY
+Tara Walker,030-49-6419,Georgian,Water quality scientist,1.65,91.58,42.29,SLOWER THAN PEERS,84.04,ST.MARY'S
+Nathan Lee,047-60-3238,Burmese,Immigration officer,1.74,89.99,38.55,WALKING UPHILL,377.66,ST.MARY'S
+Victor Reyes,066-17-1202,Hausa,Advice worker,1.62,98.57,60.02,STOPS WHEN WALKING AT PACE,321.32,ST.LUKE'S
+Rebecca Jones,244-81-9837,Serbian,Copywriter advertising,1.74,94.8,57.0,SLOWER THAN PEERS,33.39,BJC WEST COUNTY
+Susan Ryan,443-12-5840,Gujarati,Engineer petroleum,1.66,82.26,38.44,STOPS AFTER 100 YARDS,243.07,MISSOURI BAPTIST
+Rachel Richmond,105-82-3191,Malay,Banker,1.6,101.41,82.09,SLOWER THAN PEERS,144.14,SAINT LOUIS UNIVERSITY
+Leslie Smith,788-25-8399,Maltese,Engineer site,1.53,93.65,70.86,BREATHLESS WHEN DRESSING,331.34,SAINT LOUIS UNIVERSITY
+Jorge Williams,154-46-4119,Esperanto,Proofreader,1.63,86.92,56.75,WHEN HURRYING,57.32,SAINT LOUIS UNIVERSITY
+Kelly Lewis,736-39-3462,Ido,Ecologist,1.7,93.7,86.41,WALKING UPHILL,311.61,ST.MARY'S
+Mathew Welch,058-42-8247,Lao,Engineer aeronautical,1.59,112.38,38.8,WALKING UPHILL,318.6,ST.MARY'S
+Lauren Burns,571-17-2976,Sundanese,Scientist research (maths),1.62,96.28,49.46,ONLY STRENUOUS EXERCISE,346.03,SAINT LOUIS UNIVERSITY
+Margaret Beasley,337-23-8680,Breton,Clothing/textile technologist,1.71,88.35,71.84,BREATHLESS WHEN DRESSING,80.04,MISSOURI BAPTIST
+Patricia Gordon,173-93-3348,Telugu,Embryologist clinical,1.6,81.82,62.1,STOPS WHEN WALKING AT PACE,336.16,BJC WEST COUNTY
+Martha Richardson,514-63-1551,Venda,Financial risk analyst,1.76,89.0,59.73,WALKING UPHILL,395.27,BJC WEST COUNTY
+Heather Yates,820-97-5074,Bihari languages,Civil Service administrator,1.74,84.93,71.39,STOPS AFTER A FEW MINUTES,165.12,BJC WEST COUNTY
+Mark Pearson,421-91-0510,Shona,Consulting civil engineer,1.75,78.79,89.73,WHEN HURRYING,246.51,SAINT LOUIS UNIVERSITY
+Melanie Rollins,803-04-9618,Venda,Optometrist,1.55,104.73,55.01,WHEN HURRYING,116.45,MISSOURI BAPTIST
+Darren Mosley,329-72-6817,South Ndebele,Materials engineer,1.5,81.02,58.22,WALKING UPHILL,317.71,BJC WEST COUNTY
+Kelly Smith,737-28-1097,Romansh,Barrister's clerk,1.73,112.03,99.62,WALKING UPHILL,182.89,SAINT LOUIS UNIVERSITY
+Teresa Morton,555-13-6037,Kurdish,Race relations officer,1.72,84.91,93.77,SLOWER THAN PEERS,189.39,ST.MARY'S
+Eric Hess,761-26-4185,Bashkir,Podiatrist,1.71,86.58,75.93,STOPS AFTER 100 YARDS,139.06,SAINT LOUIS UNIVERSITY
+Mary Ramirez,717-94-4575,Javanese,Multimedia programmer,1.69,117.55,45.2,STOPS WHEN WALKING AT PACE,44.86,MISSOURI BAPTIST
+Michael Gilbert,699-82-6309,Thai,Health and safety adviser,1.79,83.42,65.42,STOPS WHEN WALKING AT PACE,26.76,ST.MARY'S
+Daniel Moody,024-42-8320,Nepali,Equities trader,1.51,99.81,74.86,BREATHLESS WHEN DRESSING,30.69,MISSOURI BAPTIST
+Pamela Moore,427-01-8172,Tsonga,Geographical information systems officer,1.75,85.04,48.39,STOPS WHEN WALKING AT PACE,42.09,SAINT LOUIS UNIVERSITY
+John Spence,646-15-5764,Inupiaq,Magazine journalist,1.77,105.47,68.67,STOPS AFTER A FEW MINUTES,275.05,BJC WEST COUNTY
+Sandra Hancock,467-78-3554,Basque,Solicitor Scotland,1.5,93.08,88.75,BREATHLESS WHEN DRESSING,89.53,MISSOURI BAPTIST
+James Anderson,039-25-4268,Sundanese,Optician dispensing,1.77,102.14,41.03,WALKING UPHILL,348.36,BJC
+Pamela Hamilton,599-44-7994,Chinese,Health and safety inspector,1.56,83.07,70.2,ONLY STRENUOUS EXERCISE,191.63,BJC
+Brenda Johnson,519-23-6805,Norwegian Nynorsk,Trade union research officer,1.67,92.58,68.92,SLOWER THAN PEERS,205.72,MISSOURI BAPTIST
+Melissa Hernandez,842-57-7824,Pushto,Database administrator,1.71,97.61,78.7,WALKING UPHILL,213.21,SAINT LOUIS UNIVERSITY
+Barry Fisher,347-20-3353,Malay,Osteopath,1.69,85.74,59.75,STOPS AFTER 100 YARDS,380.49,ST.MARY'S
+Samuel Pruitt,488-72-7118,Belarusian,Local government officer,1.67,86.19,87.42,STOPS WHEN WALKING AT PACE,353.69,BJC WEST COUNTY
+Theresa Barnes,018-17-3849,Hindi,Fast food restaurant manager,1.75,89.79,83.85,UNABLE TO LEAVE HOME,58.85,BJC WEST COUNTY
+Chase Hamilton,223-69-4757,Luba-Katanga,Chemist analytical,1.64,102.07,60.14,UNABLE TO LEAVE HOME,162.86,BJC
+Joshua Villa,255-90-9775,Georgian,Quality manager,1.76,103.76,96.94,UNABLE TO LEAVE HOME,89.12,BJC
+Carol Ramirez,727-25-1218,Faroese,Pharmacist hospital,1.58,106.45,62.9,WALKING UPHILL,378.99,BJC WEST COUNTY
+Stacy Olsen,166-26-5166,Chechen,Tourist information centre manager,1.59,90.22,27.65,STOPS AFTER A FEW MINUTES,30.49,BJC
+Samantha Pena,019-05-8765,Romansh,Engineer mining,1.75,78.83,88.59,SLOWER THAN PEERS,303.19,BJC
+Corey Cook,603-79-2881,Chuvash,Herpetologist,1.61,98.45,46.35,STOPS AFTER 100 YARDS,288.37,ST.MARY'S
+Mrs. Brittany Flynn,059-51-4557,Chuvash,Engineer maintenance (IT),1.71,84.87,51.04,ONLY STRENUOUS EXERCISE,103.74,BJC
+Allen Nicholson,140-66-4709,Walloon,Advertising account planner,1.69,112.93,40.19,STOPS AFTER 100 YARDS,91.01,ST.MARY'S
+Robert Snow,287-85-8259,Tswana,Government social research officer,1.58,117.18,79.01,BREATHLESS WHEN DRESSING,340.49,MISSOURI BAPTIST
+James Wallace,654-23-4043,Oriya,Surveyor minerals,1.72,108.76,27.46,WALKING UPHILL,30.87,ST.MARY'S
+Francisco Fernandez,110-22-1674,Persian,Air traffic controller,1.8,99.85,80.31,UNABLE TO LEAVE HOME,199.2,ST.MARY'S
+Wyatt Baird,842-85-6539,Assamese,Ranger/warden,1.71,89.46,50.0,STOPS AFTER A FEW MINUTES,228.57,BJC WEST COUNTY
+Randy Johnson,287-80-6540,Corsican,Engineer technical sales,1.64,116.81,68.83,WHEN HURRYING,179.32,BJC WEST COUNTY
+Maria Paul,103-13-0212,Samoan,Planning and development surveyor,1.58,95.55,47.98,WALKING UPHILL,285.08,BJC WEST COUNTY
+Kent Carr,105-79-3069,Dutch,Records manager,1.51,83.63,96.46,WALKING UPHILL,239.42,ST.MARY'S
+Mark Thomas,772-35-6022,Catalan,Engineer electrical,1.63,87.59,86.84,UNABLE TO LEAVE HOME,3.93,ST.MARY'S
+Danielle Peterson,764-97-9720,French,Personal assistant,1.8,91.17,47.18,UNABLE TO LEAVE HOME,284.24,ST.MARY'S
+Jason Pratt,317-04-0770,Sotho Southern,Programmer multimedia,1.68,98.24,71.22,STOPS WHEN WALKING AT PACE,60.84,BJC WEST COUNTY
+Melissa Mcclain,698-34-9066,Igbo,Homeopath,1.75,89.02,35.9,SLOWER THAN PEERS,72.25,MISSOURI BAPTIST
+Jacqueline Blankenship,682-41-3069,Western Frisian,Museum/gallery conservator,1.71,89.7,60.3,ONLY STRENUOUS EXERCISE,75.99,MISSOURI BAPTIST
+Michael Nicholson,200-89-4214,Lingala,Environmental consultant,1.67,92.23,64.33,WALKING UPHILL,65.9,ST.LUKE'S
+Kathryn Hill,854-67-5190,Chamorro,Medical technical officer,1.65,87.42,28.97,STOPS AFTER A FEW MINUTES,181.06,ST.LUKE'S
+Timothy Coleman,888-75-3973,Sanskrit,Programme researcher broadcasting/film/video,1.68,115.07,48.38,STOPS AFTER 100 YARDS,303.89,ST.LUKE'S
+Troy Johnson,064-93-8523,Maori,Engineer energy,1.74,96.85,36.29,STOPS AFTER 100 YARDS,107.96,BJC
+Joseph Mathis,269-76-7429,Esperanto,Information officer,1.54,116.73,98.84,WHEN HURRYING,234.43,MISSOURI BAPTIST
+Jeffrey Lopez,546-57-3919,Sichuan Yi,Legal secretary,1.51,80.22,75.29,UNABLE TO LEAVE HOME,267.27,BJC WEST COUNTY
+Kimberly Hill,459-14-4924,Sichuan Yi,Surveyor rural practice,1.76,109.38,72.59,STOPS WHEN WALKING AT PACE,224.78,ST.MARY'S
+Barbara Smith,397-14-3303,Luba-Katanga,Armed forces operational officer,1.6,116.36,87.85,BREATHLESS WHEN DRESSING,313.69,BJC WEST COUNTY
+Robert Quinn,825-61-1611,Chichewa,Herpetologist,1.77,78.08,45.32,ONLY STRENUOUS EXERCISE,90.78,BJC WEST COUNTY
+Jeremy Garrison,565-31-5635,Interlingua,Clinical psychologist,1.74,107.58,82.52,STOPS WHEN WALKING AT PACE,214.81,BJC WEST COUNTY
+Michael Davis,318-12-6583,Kuanyama,Petroleum engineer,1.52,99.04,41.06,BREATHLESS WHEN DRESSING,146.89,SAINT LOUIS UNIVERSITY
+Natalie Richmond,545-37-6618,Ewe,Landscape architect,1.57,113.61,91.13,WALKING UPHILL,374.46,MISSOURI BAPTIST
+Jamie Hughes,667-02-8827,Amharic,Insurance risk surveyor,1.57,79.0,61.56,STOPS AFTER A FEW MINUTES,252.85,SAINT LOUIS UNIVERSITY
+Jeffrey Jordan,298-76-8683,Ndonga,Designer multimedia,1.63,78.39,92.75,UNABLE TO LEAVE HOME,209.95,MISSOURI BAPTIST
+Raven Sexton,142-90-4620,Basque,Geologist engineering,1.77,81.71,77.41,WALKING UPHILL,67.8,BJC
+Tim Lynch,497-40-9509,Malay,Geologist wellsite,1.51,102.47,43.72,BREATHLESS WHEN DRESSING,204.18,BJC
+Joy Davis,314-47-3202,Dutch,Facilities manager,1.73,113.96,58.91,WHEN HURRYING,50.2,ST.MARY'S
+James Grimes,175-57-8188,Kanuri,Psychiatrist,1.78,99.22,40.15,UNABLE TO LEAVE HOME,370.25,ST.LUKE'S
+Barry Williams,604-09-7192,Norwegian,Analytical chemist,1.6,105.91,54.36,SLOWER THAN PEERS,88.01,SAINT LOUIS UNIVERSITY
+Kathryn Nelson,556-79-2816,Ossetian,Radio broadcast assistant,1.78,81.93,80.75,WALKING UPHILL,302.1,MISSOURI BAPTIST
+David Ramirez,360-11-4136,Navajo,Gaffer,1.69,79.41,47.31,WHEN HURRYING,207.8,BJC WEST COUNTY
+Linda Oconnor,886-54-6661,Assamese,Aeronautical engineer,1.59,107.92,42.52,STOPS WHEN WALKING AT PACE,18.01,BJC WEST COUNTY
+Christopher Huang,516-97-3862,Uzbek,Engineer control and instrumentation,1.61,94.69,67.33,BREATHLESS WHEN DRESSING,104.98,ST.MARY'S
+Anthony Gray,723-88-8791,Hiri Motu,Technical brewer,1.62,85.48,62.43,WHEN HURRYING,218.63,SAINT LOUIS UNIVERSITY
+Christopher Phillips,840-57-2038,Maltese,Magazine journalist,1.77,83.05,59.62,WHEN HURRYING,346.85,BJC WEST COUNTY
+Victoria West,560-58-6165,Marshallese,Engineer energy,1.51,106.27,40.53,WHEN HURRYING,128.0,MISSOURI BAPTIST
+Teresa Mendoza,888-48-2868,Church Slavic,Theatre stage manager,1.57,112.12,61.75,BREATHLESS WHEN DRESSING,76.47,SAINT LOUIS UNIVERSITY
+Jason Brown,831-31-6521,Bihari languages,Environmental education officer,1.56,114.53,98.55,WALKING UPHILL,187.83,BJC WEST COUNTY
+Heidi Campbell,204-79-4594,Kikuyu,Occupational psychologist,1.77,97.29,87.53,SLOWER THAN PEERS,273.4,MISSOURI BAPTIST
+Samantha Salazar,076-65-6397,Vietnamese,Theme park manager,1.57,79.29,42.7,STOPS AFTER A FEW MINUTES,286.63,ST.LUKE'S
+Melinda Hernandez,268-13-5745,Belarusian,Designer jewellery,1.6,85.12,91.43,STOPS WHEN WALKING AT PACE,84.07,BJC
+Rebecca Washington,457-63-0736,Mongolian,Designer exhibition/display,1.73,96.92,62.59,ONLY STRENUOUS EXERCISE,88.82,BJC
+Joshua Skinner,565-18-2529,Hiri Motu,Osteopath,1.55,91.72,75.71,WALKING UPHILL,283.93,ST.LUKE'S
+Sean Robertson,003-81-3588,Ganda,Training and development officer,1.54,96.18,95.43,BREATHLESS WHEN DRESSING,65.36,BJC WEST COUNTY
+Justin Jones,646-94-5459,Latvian,Media planner,1.57,85.18,53.46,STOPS AFTER 100 YARDS,66.31,BJC WEST COUNTY
+Brandon Casey,329-03-5338,Bosnian,Catering manager,1.8,106.09,51.94,WHEN HURRYING,204.01,MISSOURI BAPTIST
+Jill Hancock,814-27-5330,Chechen,Sports administrator,1.6,106.77,69.14,STOPS AFTER 100 YARDS,226.81,MISSOURI BAPTIST
+Nicole Hart,186-02-2664,Greek,Embryologist clinical,1.71,99.17,26.37,STOPS AFTER 100 YARDS,320.94,ST.LUKE'S
+Todd Rogers,639-65-3758,Chichewa,Lobbyist,1.59,96.74,76.04,ONLY STRENUOUS EXERCISE,169.64,SAINT LOUIS UNIVERSITY
+Raymond Harding,124-01-9032,Serbian,Medical illustrator,1.5,88.58,28.93,BREATHLESS WHEN DRESSING,361.84,BJC
+Steven House,142-14-6634,Cornish,Risk manager,1.79,89.48,99.98,WHEN HURRYING,215.18,ST.MARY'S
+Danielle Holmes,371-38-1601,Nauru,Paramedic,1.62,78.44,70.43,STOPS AFTER A FEW MINUTES,348.04,MISSOURI BAPTIST
+Tina Wilson,462-99-7187,Lithuanian,Secretary company,1.75,82.21,78.66,ONLY STRENUOUS EXERCISE,101.25,ST.LUKE'S
+Lindsey Jones,380-04-2571,Sinhala,Cabin crew,1.54,104.6,41.14,ONLY STRENUOUS EXERCISE,64.1,BJC
+Samantha Martinez,338-30-3712,Albanian,Surgeon,1.51,102.22,82.54,STOPS WHEN WALKING AT PACE,380.4,BJC
+Gregory Mejia,724-62-2555,Marshallese,Scientist physiological,1.65,109.36,81.72,ONLY STRENUOUS EXERCISE,311.7,BJC
+Tonya Craig,783-08-5949,Kannada,Interpreter,1.62,100.55,85.69,STOPS AFTER A FEW MINUTES,240.52,ST.LUKE'S
+Jacqueline Guzman,512-05-9104,Norwegian,Psychotherapist,1.53,116.24,95.7,WALKING UPHILL,395.92,ST.MARY'S
+Thomas Santiago,051-73-1940,Tagalog,Marketing executive,1.78,111.07,87.89,BREATHLESS WHEN DRESSING,88.52,BJC WEST COUNTY
+Dawn Wright,659-63-3948,Northern Sami,Tax inspector,1.52,106.41,35.74,WHEN HURRYING,306.19,SAINT LOUIS UNIVERSITY
+Eric Walters,381-13-0971,Sardinian,Biochemist clinical,1.57,104.78,77.94,STOPS AFTER A FEW MINUTES,330.05,ST.LUKE'S
+Matthew Brown,766-31-3381,Yoruba,Meteorologist,1.73,93.76,25.67,STOPS WHEN WALKING AT PACE,131.85,ST.LUKE'S
+Derek Travis,524-99-6211,Sardinian,Surveyor hydrographic,1.75,82.11,31.65,UNABLE TO LEAVE HOME,84.97,ST.MARY'S
+Jessica Jackson,037-02-5921,Kikuyu,Set designer,1.65,95.57,65.77,UNABLE TO LEAVE HOME,57.87,SAINT LOUIS UNIVERSITY
+Laura Robertson,308-66-9643,Burmese,Visual merchandiser,1.61,95.02,58.13,ONLY STRENUOUS EXERCISE,48.8,BJC WEST COUNTY
+Briana Cooper,783-08-8820,Sango,Prison officer,1.68,96.34,38.96,STOPS AFTER 100 YARDS,169.74,ST.LUKE'S
+Debra Bennett,329-72-6914,Herero,Geophysical data processor,1.64,100.03,32.04,WALKING UPHILL,319.64,BJC WEST COUNTY
+Marissa Webb,688-14-3491,Romansh,Nurse mental health,1.52,117.85,83.15,WHEN HURRYING,124.47,SAINT LOUIS UNIVERSITY
+Patricia Maldonado,754-67-6395,Irish,Conservation officer nature,1.79,115.81,52.36,STOPS AFTER A FEW MINUTES,25.24,MISSOURI BAPTIST
+Misty Roth DDS,307-02-6478,Malagasy,Optician dispensing,1.54,116.54,43.98,WHEN HURRYING,37.36,ST.LUKE'S
+Dawn Johnson,770-14-0625,Herero,Recycling officer,1.75,99.67,26.94,SLOWER THAN PEERS,260.12,SAINT LOUIS UNIVERSITY
+Jacob Haley,134-18-0419,Herero,Computer games developer,1.63,104.0,42.01,WHEN HURRYING,213.08,MISSOURI BAPTIST
+Olivia Williams,822-48-9071,Lao,Accommodation manager,1.73,108.41,40.13,ONLY STRENUOUS EXERCISE,130.24,BJC WEST COUNTY
+Clifford Peterson,671-21-4991,Inuktitut,Biomedical scientist,1.56,101.21,29.91,SLOWER THAN PEERS,83.58,BJC
+Natalie Morales,295-72-7563,French,Aid worker,1.64,107.13,65.57,STOPS WHEN WALKING AT PACE,137.46,ST.MARY'S
+Robert Hicks,259-10-1159,Croatian,Warehouse manager,1.78,113.5,91.33,ONLY STRENUOUS EXERCISE,48.21,BJC WEST COUNTY
+Adrienne Hutchinson,876-98-3378,Haitian,Government social research officer,1.62,78.13,99.65,STOPS AFTER A FEW MINUTES,80.49,SAINT LOUIS UNIVERSITY
+Perry Rice,644-92-9885,Fulah,Armed forces technical officer,1.57,80.62,97.63,WHEN HURRYING,177.63,SAINT LOUIS UNIVERSITY
+Zachary Tyler,120-73-1902,Fulah,Furniture conservator/restorer,1.7,108.01,59.18,ONLY STRENUOUS EXERCISE,187.82,ST.MARY'S
+Brittany Roberts,443-34-5315,Kinyarwanda,Runner broadcasting/film/video,1.56,103.68,38.91,WHEN HURRYING,199.08,BJC
+Victoria Phelps,815-75-8204,Sichuan Yi,Dance movement psychotherapist,1.61,97.14,74.84,BREATHLESS WHEN DRESSING,149.5,ST.MARY'S
+Tiffany Aguilar,391-82-3563,Chichewa,Armed forces technical officer,1.7,107.32,28.2,STOPS AFTER 100 YARDS,357.06,BJC WEST COUNTY
+Brent Kennedy,732-46-5963,Danish,Charity fundraiser,1.62,94.11,54.71,STOPS AFTER 100 YARDS,278.39,ST.MARY'S
+Erica Johnson,697-89-8237,Kanuri,Fitness centre manager,1.64,96.36,74.2,STOPS WHEN WALKING AT PACE,162.16,SAINT LOUIS UNIVERSITY
+Jamie Powell,854-13-9624,Javanese,Runner broadcasting/film/video,1.62,103.9,100.0,STOPS AFTER A FEW MINUTES,259.93,ST.MARY'S
+Linda Anderson,639-63-2947,Arabic,Prison officer,1.72,96.79,96.17,WALKING UPHILL,277.42,ST.MARY'S
+Emily Daniel,672-20-5775,Greek,Psychotherapist child,1.61,84.54,80.73,ONLY STRENUOUS EXERCISE,322.42,BJC WEST COUNTY
+Eric Vasquez,520-66-4890,Kashmiri,Architect,1.52,100.88,58.83,STOPS AFTER A FEW MINUTES,218.49,ST.MARY'S
+Crystal Kim,062-88-0622,Armenian,Manufacturing engineer,1.62,93.75,40.79,SLOWER THAN PEERS,214.65,SAINT LOUIS UNIVERSITY
+Kristen Olson,431-41-2261,Macedonian,Contractor,1.71,93.71,25.02,STOPS AFTER A FEW MINUTES,63.29,BJC
+Mark Dawson,484-10-3251,Bambara,Teacher secondary school,1.62,100.7,48.37,STOPS AFTER 100 YARDS,273.74,BJC WEST COUNTY
+Darren Velez,436-41-3121,Ndonga,Designer television/film set,1.78,113.26,36.63,UNABLE TO LEAVE HOME,78.96,ST.LUKE'S
+Jacob Williams,452-66-0598,Belarusian,Surveyor minerals,1.78,89.14,76.32,STOPS AFTER A FEW MINUTES,63.78,SAINT LOUIS UNIVERSITY
+Jennifer Blair,688-78-8789,Lithuanian,Quantity surveyor,1.67,114.36,79.61,WHEN HURRYING,171.25,ST.MARY'S
+Neil Thompson,212-96-3307,Romanian,Arts development officer,1.75,87.99,31.95,WALKING UPHILL,16.16,BJC
+Victoria Humphrey,862-60-3079,Lao,Soil scientist,1.5,117.02,69.1,BREATHLESS WHEN DRESSING,77.96,SAINT LOUIS UNIVERSITY
+Justin Rubio,892-09-0563,Irish,Retail merchandiser,1.58,117.2,34.29,STOPS AFTER A FEW MINUTES,111.21,ST.LUKE'S
+Frank Robertson,360-59-1428,Twi,Associate Professor,1.53,108.38,82.84,BREATHLESS WHEN DRESSING,217.68,BJC
+James Ford,220-19-4725,Serbian,Engineer civil (contracting),1.69,83.52,41.24,SLOWER THAN PEERS,382.12,ST.MARY'S
+Leah Reeves,636-83-7922,Galician,Barrister,1.74,109.94,76.16,STOPS AFTER 100 YARDS,19.15,BJC
+Dawn Nichols,795-26-9287,Bambara,Production assistant television,1.5,101.73,97.4,STOPS WHEN WALKING AT PACE,202.65,BJC
+Amanda Nelson,180-83-4395,South Ndebele,Financial trader,1.65,99.42,58.39,STOPS WHEN WALKING AT PACE,226.36,ST.LUKE'S
+Ebony Chandler MD,292-12-6342,Vietnamese,Mechanical engineer,1.56,94.69,77.08,STOPS WHEN WALKING AT PACE,200.15,ST.MARY'S
+Anthony Lopez,011-56-4586,Swati,Holiday representative,1.59,98.99,27.81,WALKING UPHILL,381.01,BJC
+Daniel Jefferson,863-13-3646,Ojibwa,Medical technical officer,1.7,85.39,96.91,STOPS AFTER 100 YARDS,81.32,BJC
+Ryan Miller,707-64-8824,Ukrainian,Secretary company,1.6,114.32,25.83,SLOWER THAN PEERS,315.9,ST.LUKE'S
+Jessica Munoz,866-76-4239,Inuktitut,Scientist research (life sciences),1.51,109.85,97.75,BREATHLESS WHEN DRESSING,361.13,ST.MARY'S
+Stacey White,156-25-8314,Belarusian,Teacher early years/pre,1.68,80.09,86.3,WHEN HURRYING,222.58,BJC
+Daniel Allen,392-35-7106,Ido,Teaching laboratory technician,1.58,85.86,99.47,STOPS WHEN WALKING AT PACE,350.06,SAINT LOUIS UNIVERSITY
+Robert Barnes,310-62-0905,Corsican,Water quality scientist,1.59,107.0,95.9,WHEN HURRYING,135.08,ST.LUKE'S
+Thomas Bender,877-73-0311,Tamil,Toxicologist,1.59,90.85,72.34,ONLY STRENUOUS EXERCISE,113.34,SAINT LOUIS UNIVERSITY
+Ian Fletcher,096-17-6524,Hebrew,Science writer,1.58,98.66,33.32,WHEN HURRYING,323.34,MISSOURI BAPTIST
+Terri Lynch,105-93-4579,Aragonese,Advertising account planner,1.79,108.75,38.88,BREATHLESS WHEN DRESSING,106.12,ST.LUKE'S
+Kimberly Acosta,646-10-8074,Somali,Investment analyst,1.76,88.82,40.7,STOPS WHEN WALKING AT PACE,262.41,ST.MARY'S
+Dawn Hughes,155-39-2913,Zulu,Best boy,1.67,83.09,99.94,WHEN HURRYING,91.31,ST.LUKE'S
+Ryan Mcdaniel,797-39-9325,Kashmiri,Designer graphic,1.68,78.3,86.36,SLOWER THAN PEERS,221.74,ST.MARY'S
+Ebony Flores,528-64-2001,Ojibwa,Surveyor building,1.58,105.76,74.52,BREATHLESS WHEN DRESSING,114.58,ST.MARY'S
+Julia Simpson,815-52-3214,Fulah,Lecturer higher education,1.7,117.05,69.21,WALKING UPHILL,102.57,ST.MARY'S
+Joshua Garcia,099-51-2499,Tonga,Science writer,1.64,111.96,62.29,ONLY STRENUOUS EXERCISE,230.98,SAINT LOUIS UNIVERSITY
+Stephanie Walker,032-21-9139,Basque,Architect,1.67,82.33,42.73,STOPS AFTER A FEW MINUTES,166.93,ST.LUKE'S
+Adrian Rose,509-16-5142,Sindhi,Environmental health practitioner,1.76,98.17,74.55,WHEN HURRYING,68.36,BJC
+Evan Jones,564-76-7582,Swedish,Claims inspector/assessor,1.58,109.43,94.77,SLOWER THAN PEERS,218.12,ST.MARY'S
+Andrew Benton,006-48-9647,Maltese,Scientist research (maths),1.79,103.26,27.53,STOPS AFTER A FEW MINUTES,188.42,BJC WEST COUNTY
+Shawn White,359-62-1423,French,Conservator museum/gallery,1.53,90.15,90.87,WHEN HURRYING,328.45,ST.LUKE'S
+Kevin Hill,244-89-5970,Slovak,Garment/textile technologist,1.52,100.45,94.98,UNABLE TO LEAVE HOME,97.07,BJC WEST COUNTY
+Kimberly Osborn,215-26-0311,English,Musician,1.57,101.51,37.16,STOPS WHEN WALKING AT PACE,305.28,ST.MARY'S
+Laura Scott,458-29-7509,Northern Sami,Broadcast journalist,1.54,102.67,79.16,ONLY STRENUOUS EXERCISE,271.85,ST.LUKE'S
+Patricia Murphy,744-88-1187,Avestan,Fast food restaurant manager,1.61,86.97,60.62,WALKING UPHILL,382.99,BJC
+Christopher Brown,886-97-9566,Slovak,Engineer mining,1.77,112.44,30.32,WHEN HURRYING,10.89,SAINT LOUIS UNIVERSITY
+Willie Hernandez,550-98-4434,Komi,Environmental consultant,1.6,80.28,78.08,BREATHLESS WHEN DRESSING,70.3,BJC
+William May,879-33-8713,Chinese,Conservation officer nature,1.64,87.96,56.13,ONLY STRENUOUS EXERCISE,191.74,BJC
+Jesus Stewart,105-15-1263,Oromo,Best boy,1.57,111.0,82.54,STOPS AFTER 100 YARDS,44.09,MISSOURI BAPTIST
+Wendy Cox,893-58-5680,Yoruba,Social researcher,1.55,98.48,74.52,STOPS AFTER A FEW MINUTES,61.6,BJC WEST COUNTY
+Ethan Ortiz,623-52-3739,Northern Sami,Medical illustrator,1.75,109.97,65.16,SLOWER THAN PEERS,214.09,ST.LUKE'S
+Crystal Wilson,851-69-4932,Czech,Chief Financial Officer,1.51,98.99,92.91,STOPS AFTER 100 YARDS,6.98,MISSOURI BAPTIST
+Kenneth Clark,699-54-5371,Maori,Dancer,1.61,88.57,26.39,STOPS WHEN WALKING AT PACE,376.85,BJC WEST COUNTY
+Melissa Johnson,687-55-8216,Abkhazian,Lexicographer,1.59,88.51,80.29,BREATHLESS WHEN DRESSING,37.85,ST.LUKE'S
+Dr. Lauren Cunningham,724-96-1786,Swahili,Psychologist sport and exercise,1.74,111.84,73.59,WHEN HURRYING,190.7,MISSOURI BAPTIST
+Gabriel Fowler,329-14-8439,Chinese,Government social research officer,1.74,91.74,65.59,WHEN HURRYING,101.86,MISSOURI BAPTIST
+Michael Carson,817-68-3112,Korean,Ceramics designer,1.52,87.6,45.53,WHEN HURRYING,87.25,SAINT LOUIS UNIVERSITY
+Michael Baker,375-12-5616,Uighur,Consulting civil engineer,1.51,112.94,75.12,WHEN HURRYING,175.1,SAINT LOUIS UNIVERSITY
+Michelle Velez,024-22-5777,Occitan,Sound technician broadcasting/film/video,1.68,97.82,98.71,WALKING UPHILL,102.32,BJC
+Michael Bennett,027-86-9819,Icelandic,Systems analyst,1.62,101.86,88.82,STOPS AFTER 100 YARDS,200.48,SAINT LOUIS UNIVERSITY
+Rebecca Dickerson,787-37-3612,Malayalam,IT consultant,1.79,93.4,51.78,BREATHLESS WHEN DRESSING,194.77,ST.MARY'S
+Carla Mills,020-97-9550,Finnish,Museum/gallery curator,1.6,79.04,33.55,STOPS AFTER 100 YARDS,212.26,MISSOURI BAPTIST
+Catherine Lynch,371-19-4073,Chinese,Corporate investment banker,1.67,100.02,46.39,UNABLE TO LEAVE HOME,46.41,SAINT LOUIS UNIVERSITY
+Erin Parrish,884-64-7739,Danish,Radiographer therapeutic,1.56,98.95,42.34,WHEN HURRYING,352.78,BJC
+Sheila Bell,592-70-3044,Pali,Ergonomist,1.6,79.88,28.83,WHEN HURRYING,128.3,ST.LUKE'S
+Scott Bartlett,586-10-1118,Polish,Scientist research (physical sciences),1.54,98.33,80.18,STOPS AFTER A FEW MINUTES,107.08,BJC
+Jason Stewart II,516-01-1731,Tswana,Programmer applications,1.5,91.07,70.43,STOPS AFTER A FEW MINUTES,371.06,SAINT LOUIS UNIVERSITY
+Zachary Durham,230-71-2508,Pushto,Administrator,1.51,108.88,57.41,UNABLE TO LEAVE HOME,335.37,SAINT LOUIS UNIVERSITY
+Jonathan Bell,394-69-8682,Venda,Holiday representative,1.75,113.34,33.08,UNABLE TO LEAVE HOME,20.78,BJC
+Paul Welch,158-56-9321,Avaric,Embryologist clinical,1.52,97.17,74.03,WALKING UPHILL,174.06,SAINT LOUIS UNIVERSITY
+John Williams,577-07-3669,Komi,Patent attorney,1.6,92.72,29.55,ONLY STRENUOUS EXERCISE,208.31,SAINT LOUIS UNIVERSITY
+Stephanie Brown,813-24-6228,Interlingue,Energy engineer,1.73,95.56,98.88,ONLY STRENUOUS EXERCISE,217.25,ST.LUKE'S
+Laura Davis,714-67-4059,Latvian,Buyer industrial,1.77,89.65,88.02,WHEN HURRYING,290.27,ST.MARY'S
+Karla Irwin,756-62-1909,Welsh,Emergency planning/management officer,1.74,86.41,95.7,WALKING UPHILL,84.13,BJC
+Reginald Hall,738-17-1862,Catalan,Medical physicist,1.79,106.94,63.06,STOPS AFTER A FEW MINUTES,82.96,BJC WEST COUNTY
+Gary Johnson,120-59-2511,Japanese,Surveyor land/geomatics,1.65,95.06,35.12,UNABLE TO LEAVE HOME,85.04,MISSOURI BAPTIST
+Roy Miller,123-62-6822,Latvian,Health and safety adviser,1.69,111.82,29.32,WALKING UPHILL,27.65,ST.LUKE'S
+Ronald Buck,090-82-6184,Basque,Chartered legal executive (England and Wales),1.77,80.47,44.03,STOPS AFTER A FEW MINUTES,281.51,SAINT LOUIS UNIVERSITY
+Paul Davis,085-92-0225,Akan,Leisure centre manager,1.68,83.87,25.71,SLOWER THAN PEERS,302.92,ST.LUKE'S
+Ricky Suarez,265-21-2404,Malayalam,Bonds trader,1.62,94.55,36.51,STOPS WHEN WALKING AT PACE,307.0,SAINT LOUIS UNIVERSITY
+Jennifer Ferguson,086-97-7717,Amharic,Recycling officer,1.69,107.34,34.85,UNABLE TO LEAVE HOME,231.35,BJC WEST COUNTY
+Melissa Lucas,105-97-7628,Sango,Clinical cytogeneticist,1.56,109.05,72.66,STOPS AFTER A FEW MINUTES,352.57,ST.LUKE'S
+Jonathan Davis,182-36-2709,Icelandic,Public relations account executive,1.56,109.75,66.06,WALKING UPHILL,40.05,ST.MARY'S
+Dawn Bell,776-05-0475,Avestan,Therapeutic radiographer,1.63,92.51,77.31,BREATHLESS WHEN DRESSING,340.96,BJC
+Michael Martin,598-72-4258,Vietnamese,Architect,1.74,88.54,60.01,ONLY STRENUOUS EXERCISE,338.25,BJC WEST COUNTY
+Ashley Nixon,042-02-6310,Komi,Designer blown glass/stained glass,1.57,92.47,54.1,BREATHLESS WHEN DRESSING,214.08,SAINT LOUIS UNIVERSITY
+Joseph Taylor,562-77-2617,Abkhazian,Barrister,1.59,99.07,74.53,UNABLE TO LEAVE HOME,270.36,SAINT LOUIS UNIVERSITY
+Pedro West,301-39-6384,Norwegian,English as a second language teacher,1.77,94.3,95.67,UNABLE TO LEAVE HOME,38.65,BJC
+Jennifer Moreno,675-19-2926,Tonga,Designer fashion/clothing,1.6,92.63,62.35,ONLY STRENUOUS EXERCISE,264.86,ST.MARY'S
+Alexandra Greene,757-87-3460,Tigrinya,General practice doctor,1.77,109.44,58.89,WALKING UPHILL,68.64,ST.LUKE'S
+Vanessa Luna,489-43-4832,Bengali,Data processing manager,1.56,85.55,89.32,STOPS WHEN WALKING AT PACE,289.09,ST.MARY'S
+William Hall,395-28-4364,Tatar,Warehouse manager,1.67,112.05,30.75,STOPS AFTER 100 YARDS,315.52,BJC
+Lisa Warren,734-72-9237,Herero,Chartered certified accountant,1.77,92.55,31.73,BREATHLESS WHEN DRESSING,47.04,MISSOURI BAPTIST
+Jason Anderson,768-11-2650,Kazakh,Housing manager/officer,1.59,92.35,26.1,ONLY STRENUOUS EXERCISE,165.8,SAINT LOUIS UNIVERSITY
+Arthur Callahan,561-51-7033,Esperanto,Veterinary surgeon,1.53,81.93,71.02,BREATHLESS WHEN DRESSING,86.48,BJC
+Kenneth Thomas,040-91-5262,Hebrew,Race relations officer,1.61,102.38,68.28,STOPS AFTER 100 YARDS,251.72,MISSOURI BAPTIST
+Matthew Peterson,024-55-0654,Amharic,Wellsite geologist,1.5,79.16,35.76,STOPS AFTER A FEW MINUTES,97.7,ST.MARY'S
+Monica Brennan,499-32-2108,Divehi,Scientist clinical (histocompatibility and immunogenetics),1.77,108.19,66.52,STOPS AFTER A FEW MINUTES,196.98,BJC
+Caitlin Dean,807-26-6356,Indonesian,Plant breeder/geneticist,1.63,80.06,79.92,BREATHLESS WHEN DRESSING,370.64,ST.LUKE'S
+Craig Wells,238-61-7680,Hebrew,Ship broker,1.61,103.84,76.11,BREATHLESS WHEN DRESSING,14.47,MISSOURI BAPTIST
+Gary Richard,606-31-1283,Inupiaq,Minerals surveyor,1.6,105.22,85.8,UNABLE TO LEAVE HOME,357.39,BJC
+Melissa Smith,020-53-5890,Hebrew,Manufacturing engineer,1.58,78.57,67.18,STOPS WHEN WALKING AT PACE,393.51,MISSOURI BAPTIST
+William Green,092-20-0780,Pushto,Producer television/film/video,1.54,81.33,75.4,BREATHLESS WHEN DRESSING,105.77,SAINT LOUIS UNIVERSITY
+Jacob Blackwell,463-54-3240,Kongo,Early years teacher,1.65,96.86,91.31,ONLY STRENUOUS EXERCISE,89.63,MISSOURI BAPTIST
+Hector Lee,057-09-3686,Sundanese,Clinical biochemist,1.67,95.19,43.35,WALKING UPHILL,183.53,ST.MARY'S
+Natasha Adkins,308-49-2014,Lao,Forest/woodland manager,1.55,78.5,59.39,BREATHLESS WHEN DRESSING,106.99,SAINT LOUIS UNIVERSITY
+James Dixon,151-81-9161,Ido,Plant breeder/geneticist,1.7,93.06,29.84,WHEN HURRYING,92.95,SAINT LOUIS UNIVERSITY
+Collin Garcia,732-65-2024,Basque,Furniture conservator/restorer,1.74,93.92,29.91,UNABLE TO LEAVE HOME,38.58,BJC WEST COUNTY
+Christopher Chavez,890-72-9485,Esperanto,Trade union research officer,1.75,116.85,88.38,STOPS AFTER A FEW MINUTES,20.31,BJC
+Kara Walker,565-98-3970,Venda,Archivist,1.58,109.66,37.29,WALKING UPHILL,84.84,BJC
+Jessica Hernandez,346-56-2053,English,Field seismologist,1.68,100.02,36.13,WALKING UPHILL,353.44,SAINT LOUIS UNIVERSITY
+Kathy Parks,408-79-7287,Maori,Designer television/film set,1.74,98.06,69.08,UNABLE TO LEAVE HOME,31.83,SAINT LOUIS UNIVERSITY
+Sarah Ingram,418-38-4081,Malagasy,Careers information officer,1.71,115.21,52.4,WHEN HURRYING,46.16,BJC
+Kevin Clark,350-29-4445,Welsh,Community education officer,1.68,86.59,91.33,WHEN HURRYING,177.56,BJC
+Jill Arias,461-61-9269,Arabic,Curator,1.59,92.59,39.2,ONLY STRENUOUS EXERCISE,116.67,BJC
+Christine Bowen,617-65-0193,Abkhazian,Engineer materials,1.77,95.48,79.4,STOPS WHEN WALKING AT PACE,344.69,SAINT LOUIS UNIVERSITY
+Mark Tate,587-32-7693,Irish,Accountant chartered,1.7,99.55,69.08,STOPS AFTER 100 YARDS,198.55,MISSOURI BAPTIST
+Megan Palmer,044-06-5287,Nauru,Museum/gallery exhibitions officer,1.79,111.24,55.26,BREATHLESS WHEN DRESSING,48.96,SAINT LOUIS UNIVERSITY
+Laura Miller,205-70-1328,Slovenian,Investment banker corporate,1.52,88.02,25.22,BREATHLESS WHEN DRESSING,203.49,MISSOURI BAPTIST
+Jamie Pennington,309-89-5320,Marathi,Health and safety inspector,1.56,88.21,48.97,WALKING UPHILL,115.92,BJC WEST COUNTY
+Natalie Herrera,449-95-6355,Cornish,Telecommunications researcher,1.77,106.11,26.93,UNABLE TO LEAVE HOME,209.56,BJC WEST COUNTY
+Nicole Anderson,595-15-9955,Bambara,Photographer,1.63,95.73,75.49,WALKING UPHILL,72.12,BJC
+Sarah Brown,084-88-6091,Romanian,TEFL teacher,1.7,90.78,61.6,WHEN HURRYING,71.88,MISSOURI BAPTIST
+John Walter,098-54-3346,Bulgarian,Counsellor,1.53,78.86,28.91,SLOWER THAN PEERS,212.73,BJC WEST COUNTY
+Mario Padilla,171-07-1352,Igbo,Ecologist,1.66,80.78,79.08,STOPS WHEN WALKING AT PACE,351.84,MISSOURI BAPTIST
+Brent Bates,112-54-2106,Bulgarian,Waste management officer,1.59,79.54,77.93,UNABLE TO LEAVE HOME,360.27,BJC WEST COUNTY
+John Lewis,840-97-0418,Vietnamese,Investment banker corporate,1.61,114.09,41.96,STOPS AFTER 100 YARDS,89.5,SAINT LOUIS UNIVERSITY
+Christopher Mendoza,175-74-7579,Korean,Accountant chartered management,1.7,94.66,57.7,ONLY STRENUOUS EXERCISE,199.55,MISSOURI BAPTIST
+Christopher Henson,342-98-0223,Chinese,Ergonomist,1.68,102.41,74.42,ONLY STRENUOUS EXERCISE,300.08,BJC WEST COUNTY
+Luis Harris,163-97-9002,Kinyarwanda,Financial trader,1.59,90.98,37.35,ONLY STRENUOUS EXERCISE,140.56,BJC
+Jerry Patterson,169-70-4894,Abkhazian,Pharmacist community,1.75,108.93,86.98,WHEN HURRYING,77.21,MISSOURI BAPTIST
+Danielle Walker,509-58-9480,Bosnian,Set designer,1.68,93.51,46.28,STOPS AFTER 100 YARDS,334.99,ST.LUKE'S
+Jesse Harris,574-80-1070,Nauru,Television floor manager,1.57,109.67,42.82,SLOWER THAN PEERS,14.08,BJC
+Lisa Rogers,073-24-7686,Bosnian,General practice doctor,1.6,94.05,99.01,STOPS AFTER A FEW MINUTES,280.13,SAINT LOUIS UNIVERSITY
+Carly Williams,147-52-2520,Corsican,Teacher early years/pre,1.58,80.11,41.76,WHEN HURRYING,371.11,ST.MARY'S
+Danielle Stewart,170-44-5147,Uzbek,Engineer manufacturing systems,1.65,104.2,63.16,BREATHLESS WHEN DRESSING,65.9,SAINT LOUIS UNIVERSITY
+Janet Henderson,739-58-0952,Chichewa,Technical brewer,1.72,81.3,50.43,BREATHLESS WHEN DRESSING,36.38,MISSOURI BAPTIST
+Jennifer Castillo,487-98-7829,Malayalam,Radiation protection practitioner,1.75,95.08,82.68,STOPS WHEN WALKING AT PACE,114.97,MISSOURI BAPTIST
+Nicholas Hatfield,882-94-1652,Bihari languages,Secondary school teacher,1.72,84.1,38.26,STOPS AFTER 100 YARDS,285.99,SAINT LOUIS UNIVERSITY
+Mr. Scott Anderson,459-12-9675,Turkmen,Financial controller,1.57,114.03,76.39,STOPS AFTER A FEW MINUTES,343.13,BJC WEST COUNTY
+Lisa Reynolds,339-74-5140,Manx,Horticultural therapist,1.57,117.84,28.03,WALKING UPHILL,327.2,BJC WEST COUNTY
+Francisco Acosta,260-15-2283,Catalan,Medical illustrator,1.68,98.26,67.59,BREATHLESS WHEN DRESSING,107.0,SAINT LOUIS UNIVERSITY
+Jennifer Robinson,063-73-4344,Pali,Insurance account manager,1.73,114.07,62.66,SLOWER THAN PEERS,338.92,ST.LUKE'S
+Jeffery Le,474-17-7601,Gaelic,Museum/gallery exhibitions officer,1.55,113.55,28.47,STOPS AFTER 100 YARDS,395.7,SAINT LOUIS UNIVERSITY
+Christina Watson,313-78-3502,Tatar,Engineer automotive,1.78,88.03,95.0,WHEN HURRYING,258.6,SAINT LOUIS UNIVERSITY
+Shawn Mcdowell,608-51-9151,Albanian,Investment banker corporate,1.75,98.1,46.12,WHEN HURRYING,238.93,BJC WEST COUNTY
+Maria Garcia,003-18-7698,Swahili,Trading standards officer,1.57,89.84,37.61,STOPS AFTER 100 YARDS,392.54,SAINT LOUIS UNIVERSITY
+Michael Santiago,483-96-9390,Sango,Occupational psychologist,1.55,105.9,45.47,UNABLE TO LEAVE HOME,284.34,BJC
+Eric Solis,250-47-8374,Ndonga,Immigration officer,1.64,89.09,30.24,WALKING UPHILL,109.82,ST.LUKE'S
+John Harper,441-61-6971,Tigrinya,Local government officer,1.78,107.89,64.01,UNABLE TO LEAVE HOME,174.64,MISSOURI BAPTIST
+Paula Pollard,880-17-3028,Maori,Chief Strategy Officer,1.67,108.06,75.04,UNABLE TO LEAVE HOME,356.5,SAINT LOUIS UNIVERSITY
+Calvin Newton,115-43-2172,Arabic,Economist,1.76,117.69,56.43,WALKING UPHILL,139.7,MISSOURI BAPTIST
+Michelle Simpson,747-16-8792,Pali,Barrister's clerk,1.66,78.13,45.31,UNABLE TO LEAVE HOME,344.24,ST.MARY'S
+Chad Duffy,049-15-2717,Romansh,Advertising account executive,1.67,82.58,28.49,ONLY STRENUOUS EXERCISE,228.75,MISSOURI BAPTIST
+Tamara Lozano,273-28-3028,Latin,Maintenance engineer,1.51,101.26,45.61,STOPS AFTER A FEW MINUTES,52.08,MISSOURI BAPTIST
+Robert Alvarado,591-98-5367,Slovak,Chief Executive Officer,1.53,104.44,85.73,SLOWER THAN PEERS,389.05,BJC WEST COUNTY
+Brandon Mills,467-18-0772,Portuguese,Nurse mental health,1.79,106.52,39.37,STOPS WHEN WALKING AT PACE,199.85,MISSOURI BAPTIST
+Elizabeth Thomas,373-66-6939,Igbo,Arboriculturist,1.68,96.76,92.56,WHEN HURRYING,349.58,BJC
+Pamela Mendez,725-80-2920,Finnish,Paramedic,1.7,93.15,94.33,STOPS WHEN WALKING AT PACE,250.9,BJC
+Casey Miller,192-34-0026,Kirghiz,Librarian academic,1.59,106.05,47.23,STOPS WHEN WALKING AT PACE,262.57,BJC WEST COUNTY
+Ashley Hood,819-98-5260,Esperanto,Hospital pharmacist,1.79,97.64,59.38,UNABLE TO LEAVE HOME,381.88,MISSOURI BAPTIST
+Kathy Reid,783-21-3865,Malagasy,Mudlogger,1.6,78.34,60.75,WALKING UPHILL,316.01,ST.LUKE'S
+Angela Parks,810-95-3044,Turkmen,Designer textile,1.71,105.92,60.67,ONLY STRENUOUS EXERCISE,39.5,BJC
+Carrie Black,617-58-5407,Avaric,Heritage manager,1.58,104.14,68.23,SLOWER THAN PEERS,263.99,MISSOURI BAPTIST
+Lori Valenzuela,377-70-1617,Tswana,Engineer land,1.7,109.08,42.89,SLOWER THAN PEERS,332.87,BJC
+Melanie Hernandez,179-23-8311,Kongo,Accountant chartered management,1.55,97.03,38.74,ONLY STRENUOUS EXERCISE,238.79,MISSOURI BAPTIST
+Sean French,034-09-6875,Slovak,Theatre stage manager,1.72,101.25,49.95,STOPS AFTER A FEW MINUTES,228.88,BJC
+David Lewis,053-45-0651,South Ndebele,Press photographer,1.62,103.7,32.19,SLOWER THAN PEERS,180.06,ST.LUKE'S
+John Williams,607-06-6205,Quechua,Nurse children's,1.69,107.81,48.32,ONLY STRENUOUS EXERCISE,331.0,BJC WEST COUNTY
+Sean Hall,117-89-9406,Japanese,Editor magazine features,1.6,78.43,96.54,ONLY STRENUOUS EXERCISE,385.13,MISSOURI BAPTIST
+Zachary Fernandez,103-17-6134,South Ndebele,Advice worker,1.57,80.74,37.73,STOPS AFTER 100 YARDS,197.59,ST.LUKE'S
+Cesar Olson,860-18-4210,Bambara,Ceramics designer,1.63,81.57,82.66,UNABLE TO LEAVE HOME,252.39,BJC WEST COUNTY
+Teresa Peterson,751-39-9868,Corsican,Patent examiner,1.78,86.17,67.04,STOPS AFTER 100 YARDS,243.22,BJC WEST COUNTY
+Samuel Ramirez,493-77-7567,Latin,Conservation officer historic buildings,1.57,95.04,82.0,BREATHLESS WHEN DRESSING,235.31,ST.LUKE'S
+Alyssa Park,700-89-2169,Aragonese,Research officer political party,1.55,86.28,71.16,BREATHLESS WHEN DRESSING,196.76,ST.LUKE'S
+Daniel Golden,895-56-8768,Shona,Soil scientist,1.54,91.01,87.35,STOPS WHEN WALKING AT PACE,47.24,BJC WEST COUNTY
+Ruth Hayes,585-73-4650,Guarani,Hotel manager,1.77,86.78,86.49,WHEN HURRYING,85.85,BJC WEST COUNTY
+Tonya Freeman,218-01-7273,Tsonga,Holiday representative,1.67,87.16,71.24,ONLY STRENUOUS EXERCISE,109.44,ST.LUKE'S
+Brittany Chavez,174-94-3691,Northern Sami,Arts administrator,1.66,100.59,61.59,SLOWER THAN PEERS,275.17,ST.MARY'S
+Kelsey Roth,352-14-5802,Komi,Education officer community,1.69,84.77,58.59,SLOWER THAN PEERS,161.99,SAINT LOUIS UNIVERSITY
+David James,656-21-8180,Aragonese,Doctor hospital,1.77,103.43,37.8,STOPS AFTER 100 YARDS,353.99,MISSOURI BAPTIST
+Michael Wallace,172-43-6833,Akan,Surveyor land/geomatics,1.73,105.27,49.93,SLOWER THAN PEERS,214.59,MISSOURI BAPTIST
+Stephanie Sexton,013-20-2439,Kalaallisut,Surveyor land/geomatics,1.73,82.17,56.46,SLOWER THAN PEERS,233.31,ST.LUKE'S
+Hunter Cook,540-97-1952,Hebrew,International aid/development worker,1.71,99.85,94.96,WALKING UPHILL,117.17,MISSOURI BAPTIST
+Stacy Pearson,210-56-3428,South Ndebele,Designer blown glass/stained glass,1.75,87.13,30.2,UNABLE TO LEAVE HOME,225.81,SAINT LOUIS UNIVERSITY
+Danielle Murray,692-34-5475,Armenian,Librarian academic,1.71,98.58,45.67,WALKING UPHILL,136.61,BJC
+Alan Ali,284-90-9843,Armenian,Musician,1.73,84.77,76.18,WALKING UPHILL,222.93,MISSOURI BAPTIST
+Theodore Davis,422-58-4904,Komi,Surveyor insurance,1.51,102.01,50.88,WALKING UPHILL,305.68,ST.MARY'S
+Nathan Johnson,317-72-0411,Czech,Publishing copy,1.78,109.86,46.86,SLOWER THAN PEERS,132.65,SAINT LOUIS UNIVERSITY
+Heather Parrish,813-25-1648,Chechen,Camera operator,1.53,101.63,89.17,STOPS AFTER 100 YARDS,164.59,SAINT LOUIS UNIVERSITY
+Robert Edwards,075-05-5690,Basque,Sports administrator,1.75,83.34,89.57,WHEN HURRYING,331.09,ST.MARY'S
+Steve Howard,727-43-6607,Latvian,Ship broker,1.75,84.96,72.41,STOPS WHEN WALKING AT PACE,245.9,ST.MARY'S
+Todd Clark,015-54-9938,Yiddish,Sales professional IT,1.75,114.77,50.28,WALKING UPHILL,67.52,SAINT LOUIS UNIVERSITY
+Justin Douglas,727-18-6739,Tibetan,Film/video editor,1.65,78.87,86.54,STOPS AFTER 100 YARDS,23.63,BJC WEST COUNTY
+Caroline Sawyer,487-81-3096,Inuktitut,Sport and exercise psychologist,1.69,91.84,84.47,BREATHLESS WHEN DRESSING,78.21,SAINT LOUIS UNIVERSITY
+David Taylor,319-78-8473,Sango,Medical technical officer,1.67,106.92,63.52,SLOWER THAN PEERS,368.81,BJC
+Sarah Kelly,849-10-6786,Yiddish,Ergonomist,1.5,84.22,94.34,STOPS AFTER A FEW MINUTES,213.57,BJC WEST COUNTY
+Thomas Torres,125-97-2554,Ndonga,Quality manager,1.69,113.72,87.21,STOPS AFTER A FEW MINUTES,299.47,MISSOURI BAPTIST
+Patricia Keller,347-21-9035,Interlingue,Town planner,1.78,82.51,70.13,UNABLE TO LEAVE HOME,390.13,BJC
+Erica Brown,832-57-0249,Sundanese,Dramatherapist,1.74,102.85,89.18,WHEN HURRYING,92.82,BJC
+Katherine Bailey,824-86-5827,Akan,Administrator sports,1.63,87.25,66.3,ONLY STRENUOUS EXERCISE,383.49,MISSOURI BAPTIST
+Jorge Thomas,718-12-9959,Indonesian,IT trainer,1.59,109.74,43.83,ONLY STRENUOUS EXERCISE,204.02,MISSOURI BAPTIST
+Ashley Walker,729-87-2004,Irish,Water engineer,1.79,90.3,83.06,STOPS AFTER 100 YARDS,66.67,ST.MARY'S
+Donna Lester,026-88-7407,Ewe,Health service manager,1.79,98.76,33.27,SLOWER THAN PEERS,398.16,BJC WEST COUNTY
+Robert Li,491-23-6463,Assamese,Insurance risk surveyor,1.7,111.48,41.14,UNABLE TO LEAVE HOME,291.44,BJC WEST COUNTY
+Alan Cunningham,209-08-2421,Kirghiz,Bookseller,1.74,96.99,86.05,WHEN HURRYING,43.0,MISSOURI BAPTIST
+Peter Blair,042-21-1069,Ewe,Civil Service administrator,1.74,89.03,71.94,BREATHLESS WHEN DRESSING,185.07,ST.LUKE'S
+Willie Kirk,736-41-7564,Spanish,Hospital doctor,1.54,92.77,89.76,SLOWER THAN PEERS,350.44,ST.LUKE'S
+Michelle Barber,215-89-1731,Tibetan,Agricultural consultant,1.7,79.98,97.57,ONLY STRENUOUS EXERCISE,83.62,ST.LUKE'S
+Gabriel Andersen,858-59-4286,Avestan,Research officer government,1.61,102.06,63.28,WHEN HURRYING,171.93,ST.LUKE'S
+Leah Rich,843-27-7880,Chichewa,Research scientist (medical),1.75,84.07,56.17,STOPS WHEN WALKING AT PACE,218.1,ST.LUKE'S
+Dr. Kimberly Booth DVM,487-70-7527,Lingala,Risk analyst,1.6,116.15,73.09,ONLY STRENUOUS EXERCISE,245.95,BJC WEST COUNTY
+Jeremy May,058-31-1647,Bambara,Financial adviser,1.56,82.38,70.14,STOPS AFTER 100 YARDS,123.59,BJC
+Elizabeth Ellis,615-48-2431,Ido,Chartered public finance accountant,1.74,95.57,33.85,STOPS AFTER 100 YARDS,217.46,MISSOURI BAPTIST
+Michael Harris,453-63-2731,Aragonese,Lexicographer,1.62,82.65,94.23,STOPS AFTER A FEW MINUTES,217.83,BJC WEST COUNTY
+David Olsen,847-12-1008,Amharic,Physicist medical,1.62,78.88,69.58,STOPS AFTER 100 YARDS,260.44,BJC WEST COUNTY
+Matthew Morgan,651-01-4235,Burmese,Barrister's clerk,1.61,79.72,26.96,STOPS WHEN WALKING AT PACE,133.68,BJC
+Shelly Lynch,490-97-8118,Persian,Control and instrumentation engineer,1.77,101.76,44.72,SLOWER THAN PEERS,352.12,BJC WEST COUNTY
+Denise Frazier,530-24-2822,Armenian,Counsellor,1.63,114.4,86.61,WALKING UPHILL,259.42,ST.LUKE'S
+Michael Nelson,019-83-2798,Panjabi,Engineer manufacturing,1.77,103.07,66.28,STOPS AFTER A FEW MINUTES,34.64,BJC WEST COUNTY
+Jerome Newman,089-93-5225,Inupiaq,Research scientist (medical),1.8,112.04,73.12,BREATHLESS WHEN DRESSING,329.76,SAINT LOUIS UNIVERSITY
+Carolyn Martinez,017-40-0103,Albanian,Museum/gallery conservator,1.67,90.13,67.23,UNABLE TO LEAVE HOME,199.06,ST.LUKE'S
+Megan Miller,641-68-7256,North Ndebele,Amenity horticulturist,1.78,104.96,95.39,SLOWER THAN PEERS,52.42,ST.MARY'S
+Mr. James Smith,481-42-6656,Komi,Public affairs consultant,1.72,91.05,40.73,ONLY STRENUOUS EXERCISE,53.08,ST.MARY'S
+Kenneth Booth,365-41-9690,Sanskrit,Social researcher,1.64,109.96,47.4,STOPS WHEN WALKING AT PACE,4.01,BJC WEST COUNTY
+Jennifer Welch,838-68-0161,Ndonga,Designer graphic,1.62,99.36,70.94,STOPS WHEN WALKING AT PACE,252.07,ST.MARY'S
+Zachary Smith,383-37-4541,Korean,Programme researcher broadcasting/film/video,1.62,91.77,56.28,SLOWER THAN PEERS,226.73,SAINT LOUIS UNIVERSITY
+Molly Bentley,376-62-8471,Kalaallisut,Publishing copy,1.65,112.64,46.78,STOPS AFTER A FEW MINUTES,172.8,ST.LUKE'S
+Cory Davidson,773-70-4116,Akan,Research scientist (life sciences),1.5,82.41,95.12,ONLY STRENUOUS EXERCISE,62.87,MISSOURI BAPTIST
+Judith Santana,766-28-7964,Quechua,Armed forces training and education officer,1.74,90.54,53.19,STOPS WHEN WALKING AT PACE,120.28,BJC
+Corey Gutierrez,364-90-2447,Arabic,Scientist research (life sciences),1.69,78.62,85.16,STOPS WHEN WALKING AT PACE,258.93,BJC WEST COUNTY
+Ryan Hall,020-62-6268,Irish,Insurance risk surveyor,1.63,84.86,57.61,WALKING UPHILL,109.76,ST.LUKE'S
+Amanda Cooley,043-52-1845,Javanese,Journalist broadcasting,1.57,110.44,99.74,UNABLE TO LEAVE HOME,137.66,SAINT LOUIS UNIVERSITY
+Courtney George,075-45-5737,Herero,Science writer,1.66,112.33,64.56,ONLY STRENUOUS EXERCISE,284.43,MISSOURI BAPTIST
+Judy Owens,751-56-3087,Kirghiz,Scientist water quality,1.61,106.41,51.24,ONLY STRENUOUS EXERCISE,212.11,ST.MARY'S
+Erin Day,624-35-1967,Fulah,Medical technical officer,1.56,105.84,55.83,WHEN HURRYING,165.74,ST.LUKE'S
+Brett Clark,773-97-2185,Yoruba,Magazine journalist,1.55,91.75,62.09,UNABLE TO LEAVE HOME,129.88,BJC WEST COUNTY
+Hannah Fisher,305-33-6267,Tagalog,Fashion designer,1.69,101.6,25.71,STOPS AFTER A FEW MINUTES,360.45,BJC
+Ms. Shirley Stewart DDS,147-72-2187,Nauru,Chief Strategy Officer,1.75,112.32,37.0,STOPS AFTER A FEW MINUTES,29.79,SAINT LOUIS UNIVERSITY
+Grace Chambers,056-29-7845,Vietnamese,Retail buyer,1.78,88.87,51.45,WHEN HURRYING,352.18,BJC WEST COUNTY
+Hannah Garcia,622-24-6724,Nepali,Sound technician broadcasting/film/video,1.6,113.75,26.47,STOPS AFTER A FEW MINUTES,373.88,ST.MARY'S
+Roger Ramirez,386-41-7430,Chinese,Technical sales engineer,1.65,95.28,35.47,STOPS AFTER 100 YARDS,67.71,BJC
+Sandra Frazier,393-85-6709,Albanian,Production designer theatre/television/film,1.62,85.78,41.3,WALKING UPHILL,120.74,ST.LUKE'S
+Monique Schmidt,771-38-1756,Turkish,Fast food restaurant manager,1.77,91.17,65.58,STOPS AFTER 100 YARDS,207.68,BJC
+Frank Whitaker,532-76-3100,Sindhi,Emergency planning/management officer,1.71,86.18,34.82,BREATHLESS WHEN DRESSING,287.74,ST.LUKE'S
+Kyle Castillo,288-14-7402,Guarani,Health service manager,1.63,79.83,31.41,ONLY STRENUOUS EXERCISE,71.95,BJC WEST COUNTY
+Kristi Joseph,503-44-6741,Fijian,Armed forces technical officer,1.63,105.23,49.41,ONLY STRENUOUS EXERCISE,373.79,ST.LUKE'S
+Jerry Shepard,316-78-8537,Tajik,Engineer control and instrumentation,1.75,80.18,40.77,WALKING UPHILL,280.66,ST.MARY'S
+Brittany Garcia,690-01-1374,Fulah,Designer television/film set,1.65,80.79,94.65,ONLY STRENUOUS EXERCISE,366.5,BJC
+Jacob Gomez,875-27-8323,Uighur,Oceanographer,1.62,109.75,88.6,UNABLE TO LEAVE HOME,149.4,ST.MARY'S
+Elizabeth Brown,183-68-9074,English,Librarian public,1.58,113.71,37.26,SLOWER THAN PEERS,389.94,ST.MARY'S
+Kristina Montgomery,017-56-9385,Somali,Automotive engineer,1.62,83.82,48.03,UNABLE TO LEAVE HOME,104.59,ST.LUKE'S
+George Nelson,428-94-7639,Cornish,Accountant chartered public finance,1.6,101.06,36.22,WALKING UPHILL,35.97,BJC WEST COUNTY
+Kristen Cabrera,243-25-2417,Akan,Furniture conservator/restorer,1.59,111.08,97.51,STOPS AFTER A FEW MINUTES,12.17,ST.MARY'S
+Kyle Wright,466-15-2664,Sundanese,Writer,1.58,113.67,30.5,STOPS AFTER A FEW MINUTES,100.05,ST.MARY'S
+Daniel Mcbride,043-63-6702,Pushto,Drilling engineer,1.56,88.4,61.46,STOPS AFTER 100 YARDS,137.4,SAINT LOUIS UNIVERSITY
+Jesse Ortiz,140-40-6749,North Ndebele,Research officer trade union,1.67,115.93,94.82,STOPS WHEN WALKING AT PACE,170.15,ST.MARY'S
+Brandon Phillips,512-85-4797,Welsh,Proofreader,1.59,115.05,57.6,UNABLE TO LEAVE HOME,120.56,BJC
+Timothy Rivera,372-68-4467,Vietnamese,Environmental consultant,1.74,88.19,56.07,STOPS AFTER 100 YARDS,206.89,ST.LUKE'S
+Wanda Davis,109-45-0445,Esperanto,IT sales professional,1.59,87.51,78.78,WALKING UPHILL,347.14,SAINT LOUIS UNIVERSITY
+Alyssa Rodriguez,474-49-3822,Wolof,Editor commissioning,1.71,98.29,86.08,WALKING UPHILL,367.1,BJC WEST COUNTY
+Curtis Smith,047-12-9652,Cree,Tax adviser,1.64,83.09,51.22,UNABLE TO LEAVE HOME,3.85,MISSOURI BAPTIST
+Laurie Smith,025-13-1695,Limburgan,Occupational therapist,1.52,113.86,81.32,UNABLE TO LEAVE HOME,45.66,SAINT LOUIS UNIVERSITY
+Brittany Collier,239-88-0510,Akan,Doctor general practice,1.65,110.47,40.14,BREATHLESS WHEN DRESSING,18.96,SAINT LOUIS UNIVERSITY
+Wendy Wright,339-34-8914,Albanian,Printmaker,1.6,82.36,28.48,SLOWER THAN PEERS,399.59,SAINT LOUIS UNIVERSITY
+Michelle Carpenter,484-63-5355,Kannada,Psychotherapist,1.6,100.98,37.16,STOPS WHEN WALKING AT PACE,71.29,ST.MARY'S
+Ryan Yates,043-82-9036,Chuvash,Theme park manager,1.62,107.34,93.36,STOPS AFTER 100 YARDS,151.95,SAINT LOUIS UNIVERSITY
+Dr. Vincent Turner,669-14-6070,Maori,Surveyor commercial/residential,1.59,96.46,73.19,BREATHLESS WHEN DRESSING,174.94,SAINT LOUIS UNIVERSITY
+Michael Davis,769-04-9476,Kinyarwanda,Doctor general practice,1.69,100.08,60.35,WHEN HURRYING,331.74,BJC WEST COUNTY
+Mr. Tyler Hendrix,117-86-7573,Swedish,Event organiser,1.73,103.82,71.09,WHEN HURRYING,24.36,ST.MARY'S
+Regina Clark,795-11-1060,Oriya,Geoscientist,1.73,102.71,57.71,UNABLE TO LEAVE HOME,106.03,ST.MARY'S
+Brandon Kelley,005-76-8758,Kalaallisut,Therapist drama,1.57,87.23,62.36,UNABLE TO LEAVE HOME,239.42,ST.MARY'S
+Lori Moses,715-34-1060,Chamorro,Health and safety adviser,1.74,90.32,96.19,SLOWER THAN PEERS,117.2,SAINT LOUIS UNIVERSITY
+Derek Caldwell,330-20-7009,Malayalam,Scientist clinical (histocompatibility and immunogenetics),1.79,84.99,45.2,ONLY STRENUOUS EXERCISE,309.02,BJC
+Cory Pollard,011-36-6905,Hiri Motu,Biomedical scientist,1.62,104.49,28.16,STOPS WHEN WALKING AT PACE,397.36,BJC
+Lisa Bauer,092-23-5972,Malay,Personal assistant,1.69,103.73,80.85,ONLY STRENUOUS EXERCISE,263.45,BJC
+Amy Nash,306-43-3527,Kirghiz,Scientist audiological,1.8,87.03,71.45,STOPS AFTER 100 YARDS,169.5,BJC WEST COUNTY
+Billy Watkins,641-19-3420,Ido,Make,1.69,95.31,94.31,STOPS AFTER 100 YARDS,365.57,ST.LUKE'S
+Andrew Flores,799-97-3187,Afrikaans,Media buyer,1.65,103.37,87.89,WHEN HURRYING,154.82,ST.LUKE'S
+Collin Clark,893-25-2175,Vietnamese,Engineer energy,1.66,113.1,88.01,WALKING UPHILL,104.71,ST.MARY'S
+Lynn Carr,751-78-5700,Swahili,Designer textile,1.56,86.81,87.58,BREATHLESS WHEN DRESSING,31.43,ST.MARY'S
+Michael Barnes,412-19-8549,Chamorro,Legal executive,1.58,97.27,62.01,SLOWER THAN PEERS,185.52,BJC WEST COUNTY
+Karen Maynard,294-48-0963,Esperanto,Health and safety adviser,1.58,102.63,25.28,UNABLE TO LEAVE HOME,170.84,BJC
+Katrina Brown,521-72-2840,Estonian,Public librarian,1.69,112.37,87.46,SLOWER THAN PEERS,338.69,BJC WEST COUNTY
+Tiffany Ruiz,664-17-1885,Japanese,Dramatherapist,1.69,106.12,40.54,WALKING UPHILL,234.83,ST.LUKE'S
+Sarah Henderson,142-37-8872,Bosnian,Pensions consultant,1.72,109.67,66.61,STOPS AFTER A FEW MINUTES,11.08,ST.MARY'S
+Tracy Strong,554-89-4075,Inupiaq,Product manager,1.58,87.71,54.86,STOPS WHEN WALKING AT PACE,387.03,MISSOURI BAPTIST
+Melissa Chavez,443-75-8093,Afrikaans,Adult guidance worker,1.71,87.2,40.0,BREATHLESS WHEN DRESSING,129.6,ST.LUKE'S
+Vanessa Rose,303-54-3151,Shona,Print production planner,1.6,82.34,52.22,STOPS AFTER 100 YARDS,293.11,BJC
+Susan Williams,026-18-5698,Ganda,Ophthalmologist,1.62,79.85,77.79,UNABLE TO LEAVE HOME,148.09,ST.MARY'S
+Nicole Morse,311-61-5968,Spanish,Web designer,1.66,78.69,43.2,SLOWER THAN PEERS,160.17,ST.MARY'S
+Kristina Moran,879-33-2951,Komi,Insurance underwriter,1.6,87.82,85.4,WHEN HURRYING,179.32,BJC
+Michelle Fisher,710-32-7913,Occitan,Data processing manager,1.55,108.64,33.43,STOPS AFTER A FEW MINUTES,38.44,SAINT LOUIS UNIVERSITY
+Noah Wilson,085-45-2519,Norwegian,Software engineer,1.51,116.04,79.84,STOPS AFTER 100 YARDS,320.02,ST.LUKE'S
+Keith Morton,678-62-6766,Komi,Civil engineer contracting,1.77,114.84,57.43,WHEN HURRYING,123.16,BJC
+Darren Calhoun,430-03-4609,Telugu,Patent examiner,1.78,90.95,87.14,SLOWER THAN PEERS,48.52,ST.LUKE'S
+Elizabeth Nunez,226-92-2758,Burmese,Contractor,1.65,113.65,97.27,STOPS WHEN WALKING AT PACE,78.53,ST.MARY'S
+Patrick Matthews,869-48-2080,Nauru,Designer graphic,1.75,116.39,74.88,WHEN HURRYING,346.94,MISSOURI BAPTIST
+Shannon Coleman,188-78-1415,Welsh,Personnel officer,1.53,86.03,32.53,STOPS WHEN WALKING AT PACE,362.53,ST.MARY'S
+Elizabeth Graham,269-19-7903,Afrikaans,Financial manager,1.58,78.83,27.55,UNABLE TO LEAVE HOME,277.82,ST.MARY'S
+Mary Harmon,053-10-5567,Limburgan,Engineer civil (contracting),1.77,81.51,43.72,WALKING UPHILL,305.95,ST.MARY'S
+Scott Morgan,412-98-9118,Maori,Conservation officer historic buildings,1.64,97.0,95.19,STOPS AFTER 100 YARDS,235.06,BJC
+Kendra Potter,060-17-7195,Fijian,Best boy,1.59,102.72,42.28,STOPS AFTER 100 YARDS,295.29,BJC
+Jennifer Bishop,071-87-0563,Divehi,Loss adjuster chartered,1.71,98.43,28.09,ONLY STRENUOUS EXERCISE,147.61,BJC
+Wendy Brooks,403-64-9102,Romansh,Conservation officer historic buildings,1.55,107.94,39.21,SLOWER THAN PEERS,385.73,MISSOURI BAPTIST
+Peter Henderson,246-39-3800,Kurdish,Chiropractor,1.76,106.64,91.17,ONLY STRENUOUS EXERCISE,366.69,ST.MARY'S
+Danielle Vaughan,157-10-6484,Sinhala,Ship broker,1.66,108.01,78.01,STOPS WHEN WALKING AT PACE,116.65,ST.LUKE'S
+Paul Phillips,782-33-3761,Tagalog,Aid worker,1.65,87.32,67.16,BREATHLESS WHEN DRESSING,153.44,ST.LUKE'S
+Jessica Ramirez,054-85-3484,Tatar,Immunologist,1.58,116.51,80.84,SLOWER THAN PEERS,323.58,BJC
+Colleen Robinson,278-09-7304,Yoruba,Solicitor Scotland,1.61,114.13,70.35,SLOWER THAN PEERS,301.93,SAINT LOUIS UNIVERSITY
+Amy Sanchez,125-88-2886,Croatian,Best boy,1.64,110.54,70.34,STOPS AFTER A FEW MINUTES,17.17,ST.MARY'S
+Andrew Wilson,438-46-7649,Samoan,Museum/gallery conservator,1.62,81.59,85.96,STOPS AFTER A FEW MINUTES,398.15,MISSOURI BAPTIST
+Matthew Collins,779-09-4085,Quechua,Probation officer,1.54,113.03,79.85,STOPS AFTER 100 YARDS,214.77,ST.LUKE'S
+Jill Lewis,416-30-6788,Tagalog,Geologist wellsite,1.68,87.81,55.14,STOPS AFTER 100 YARDS,76.82,BJC WEST COUNTY
+Kristen Hall,111-68-6611,Malagasy,Warehouse manager,1.54,106.7,48.04,SLOWER THAN PEERS,310.16,ST.MARY'S
+Jordan Rivera,432-63-7501,Javanese,Travel agency manager,1.76,105.22,88.87,STOPS AFTER A FEW MINUTES,109.51,BJC WEST COUNTY
+Jonathon Anderson,477-58-5267,Greek,Field seismologist,1.51,98.4,76.75,WHEN HURRYING,15.71,SAINT LOUIS UNIVERSITY
+Julia Curtis,817-12-3883,Uighur,Editor commissioning,1.7,100.75,80.36,UNABLE TO LEAVE HOME,145.63,SAINT LOUIS UNIVERSITY
+David Jones,390-62-9118,Bislama,Secretary company,1.65,96.63,31.12,ONLY STRENUOUS EXERCISE,315.89,BJC
+Christopher Bennett,217-69-4432,Tsonga,Primary school teacher,1.54,78.21,49.31,BREATHLESS WHEN DRESSING,307.95,ST.LUKE'S
+Anthony Wright,534-09-4199,Norwegian Nynorsk,Human resources officer,1.54,78.93,43.78,UNABLE TO LEAVE HOME,24.68,SAINT LOUIS UNIVERSITY
+Christopher Paul,771-34-6721,Fijian,Location manager,1.52,114.98,45.29,STOPS AFTER 100 YARDS,367.97,ST.MARY'S
+Justin Davidson,317-40-6002,Indonesian,Aeronautical engineer,1.71,98.68,33.57,SLOWER THAN PEERS,67.95,BJC WEST COUNTY
+Dr. Heather Martin,468-54-2229,Vietnamese,Therapist sports,1.78,85.44,58.36,UNABLE TO LEAVE HOME,275.98,BJC
+Kristopher Baker,648-42-0426,Herero,Legal executive,1.77,94.33,32.57,WHEN HURRYING,157.77,ST.MARY'S
+Katie Johnson,200-18-4587,Ido,Journalist broadcasting,1.64,101.68,82.81,STOPS WHEN WALKING AT PACE,140.35,SAINT LOUIS UNIVERSITY
+Christian Bowen,128-05-2583,Akan,Chemical engineer,1.58,101.3,74.96,UNABLE TO LEAVE HOME,38.57,BJC WEST COUNTY
+Melissa Carter,410-19-0917,Yiddish,Land,1.77,114.2,87.38,ONLY STRENUOUS EXERCISE,135.88,BJC
+Shannon Walker,382-42-5624,Tibetan,Glass blower/designer,1.5,112.75,99.08,ONLY STRENUOUS EXERCISE,150.22,ST.LUKE'S
+Amanda Singh,336-09-0821,Wolof,Art therapist,1.59,92.25,76.39,SLOWER THAN PEERS,365.68,BJC
+Michael Sanders,001-83-7146,Hiri Motu,Education administrator,1.71,98.05,72.48,BREATHLESS WHEN DRESSING,127.55,ST.MARY'S
+Ryan Morris,259-29-1380,Burmese,Chartered legal executive (England and Wales),1.76,111.78,99.54,WALKING UPHILL,266.75,BJC WEST COUNTY
+Michael Sanchez,807-45-8892,Kazakh,Designer blown glass/stained glass,1.61,107.74,93.04,ONLY STRENUOUS EXERCISE,341.31,BJC
+Erin Stevens,365-22-3684,Afar,Records manager,1.69,85.79,70.79,SLOWER THAN PEERS,83.72,ST.MARY'S
+Kyle Pierce,644-74-2251,Czech,Scientist research (medical),1.53,97.74,50.85,STOPS AFTER A FEW MINUTES,395.95,BJC WEST COUNTY
+Christy Collins,309-92-5189,Sundanese,Engineer maintenance (IT),1.52,99.86,52.46,STOPS AFTER A FEW MINUTES,350.9,ST.MARY'S
+Jessica Doyle,603-59-3415,Luba-Katanga,Conservator furniture,1.72,108.74,52.96,WHEN HURRYING,260.21,BJC
+Jessica Johnson,061-81-9380,Xhosa,Environmental manager,1.64,100.94,32.7,BREATHLESS WHEN DRESSING,188.37,ST.MARY'S
+Cheryl Matthews,514-83-1154,Malagasy,Dealer,1.51,90.08,49.59,BREATHLESS WHEN DRESSING,363.06,MISSOURI BAPTIST
+Molly Chen,061-14-5132,Sango,Geologist wellsite,1.61,105.39,26.72,WHEN HURRYING,229.73,BJC WEST COUNTY
+Kyle Price,745-51-7666,Azerbaijani,Psychologist educational,1.76,116.74,70.22,BREATHLESS WHEN DRESSING,244.76,ST.LUKE'S
+Christopher Stevens,745-18-5003,Kazakh,Geologist engineering,1.58,94.56,74.33,WHEN HURRYING,243.44,ST.LUKE'S
+Traci Love,023-27-9127,Walloon,Agricultural engineer,1.52,80.72,71.67,WALKING UPHILL,399.6,ST.MARY'S
+Heidi Haynes,528-82-5419,Haitian,Public relations account executive,1.51,85.57,43.2,UNABLE TO LEAVE HOME,394.37,SAINT LOUIS UNIVERSITY
+Sean Parker,494-87-4401,Oriya,Metallurgist,1.52,78.99,76.4,STOPS AFTER 100 YARDS,294.94,BJC
+Timothy Smith,626-84-6333,Macedonian,Higher education careers adviser,1.69,91.66,99.31,BREATHLESS WHEN DRESSING,31.5,MISSOURI BAPTIST
+Austin Boone,225-07-2409,Kuanyama,Geophysical data processor,1.55,98.43,79.23,WHEN HURRYING,130.22,BJC
+Todd Walls,292-92-0329,Breton,Physicist medical,1.53,90.45,61.37,STOPS AFTER A FEW MINUTES,263.3,BJC
+Richard Davis,812-23-9710,Turkish,Museum/gallery exhibitions officer,1.52,100.75,99.43,SLOWER THAN PEERS,41.21,BJC WEST COUNTY
+Erin Turner,467-10-6977,Swedish,Newspaper journalist,1.59,89.59,99.86,STOPS AFTER 100 YARDS,61.22,SAINT LOUIS UNIVERSITY
+Matthew Riley,776-78-9384,Persian,Learning mentor,1.52,92.14,38.47,BREATHLESS WHEN DRESSING,363.23,ST.LUKE'S
+Mark Cardenas,053-20-0741,Interlingua,Ranger/warden,1.6,102.61,30.63,STOPS WHEN WALKING AT PACE,226.6,ST.MARY'S
+Tiffany Mcdonald,693-27-4150,Spanish,Herpetologist,1.59,83.76,29.07,STOPS WHEN WALKING AT PACE,176.43,BJC WEST COUNTY
+Mrs. Stephanie Hebert PhD,418-58-3740,Slovenian,Comptroller,1.72,116.01,61.67,STOPS AFTER 100 YARDS,6.32,BJC WEST COUNTY
+Amy Hernandez,498-60-1167,Telugu,Health service manager,1.6,107.76,97.95,STOPS AFTER 100 YARDS,199.91,SAINT LOUIS UNIVERSITY
+Bethany Molina,773-81-3991,Xhosa,Fashion designer,1.71,80.36,60.43,STOPS AFTER A FEW MINUTES,154.12,BJC
+Connor Patterson,313-83-7034,Bambara,Therapist horticultural,1.6,86.3,42.79,WALKING UPHILL,44.12,MISSOURI BAPTIST
+James Brown,717-32-7394,Nauru,Company secretary,1.64,79.61,64.26,WHEN HURRYING,39.94,ST.MARY'S
+Alexander Cunningham,455-39-1262,Cornish,Arboriculturist,1.77,98.48,43.28,SLOWER THAN PEERS,329.19,BJC
+Kathleen Fernandez,739-48-0382,Javanese,Designer textile,1.53,105.38,58.34,UNABLE TO LEAVE HOME,123.29,MISSOURI BAPTIST
+Joe Arnold,772-89-0734,Inupiaq,Multimedia specialist,1.54,79.5,90.8,BREATHLESS WHEN DRESSING,273.69,BJC
+Michael Thomas,476-73-2278,English,Actor,1.58,115.4,97.14,UNABLE TO LEAVE HOME,355.9,MISSOURI BAPTIST
+Catherine Hampton,735-56-7145,Malagasy,Chief of Staff,1.76,96.39,41.82,ONLY STRENUOUS EXERCISE,368.72,MISSOURI BAPTIST
+Stephen Palmer,271-89-6217,Slovenian,Immunologist,1.69,112.04,34.56,WALKING UPHILL,286.8,ST.MARY'S
+Dennis Edwards DDS,861-15-3287,Bislama,Therapist sports,1.55,109.47,33.69,WHEN HURRYING,67.9,MISSOURI BAPTIST
+Tiffany Flores,697-57-1350,Sanskrit,Social researcher,1.78,96.58,71.64,SLOWER THAN PEERS,138.89,ST.LUKE'S
+Leslie Stewart,067-47-2180,Vietnamese,Professor Emeritus,1.55,81.21,53.12,WALKING UPHILL,63.89,BJC
+Keith Caldwell,013-79-3577,Turkmen,Passenger transport manager,1.55,99.94,76.97,WHEN HURRYING,279.52,BJC
+Andrew Crosby,433-30-0301,Ewe,Physiological scientist,1.62,94.67,68.02,SLOWER THAN PEERS,117.4,BJC
+John Alvarez,227-30-3073,Oromo,Academic librarian,1.75,85.63,33.71,STOPS AFTER 100 YARDS,130.8,SAINT LOUIS UNIVERSITY
+Rachel Shannon,745-74-5967,Norwegian Nynorsk,Medical illustrator,1.62,97.22,35.21,STOPS AFTER A FEW MINUTES,169.27,BJC WEST COUNTY
+Joanna Richardson DDS,794-95-8658,Kinyarwanda,Research scientist (physical sciences),1.58,95.07,55.56,STOPS WHEN WALKING AT PACE,17.81,MISSOURI BAPTIST
+Eric Watson,507-64-6094,Icelandic,Ceramics designer,1.57,87.76,27.82,SLOWER THAN PEERS,397.18,BJC WEST COUNTY
+Justin Lynch,052-02-3223,Bosnian,Copywriter advertising,1.55,116.22,94.98,STOPS AFTER A FEW MINUTES,305.94,BJC
+Cynthia Jones,104-35-1166,Shona,Teacher English as a foreign language,1.5,95.93,47.61,UNABLE TO LEAVE HOME,380.65,MISSOURI BAPTIST
+Gary Cobb,331-08-8193,Ewe,Designer blown glass/stained glass,1.54,111.4,92.11,STOPS AFTER 100 YARDS,337.36,ST.LUKE'S
+Daniel Potter,352-22-0218,Yiddish,IT consultant,1.75,105.88,93.54,UNABLE TO LEAVE HOME,162.21,ST.LUKE'S
+Laurie Brady,749-01-9129,Spanish,Advertising account executive,1.64,112.36,95.79,STOPS WHEN WALKING AT PACE,44.12,MISSOURI BAPTIST
+Kellie Lane MD,115-28-9541,Chichewa,Games developer,1.64,90.17,57.64,UNABLE TO LEAVE HOME,230.22,BJC
+Sandra Bell,520-07-6831,Chichewa,Charity officer,1.67,108.12,41.69,UNABLE TO LEAVE HOME,39.83,BJC
+Sarah Edwards,834-85-0034,Mongolian,Psychotherapist child,1.76,110.53,94.68,UNABLE TO LEAVE HOME,154.37,ST.MARY'S
+Amanda Knight,058-36-1489,Romanian,Engineer electrical,1.6,88.15,49.6,UNABLE TO LEAVE HOME,335.45,ST.LUKE'S
+William Nelson,566-94-7889,Haitian,Petroleum engineer,1.54,89.81,69.23,STOPS WHEN WALKING AT PACE,286.86,ST.MARY'S
+Ashley Bernard,393-13-5795,Kanuri,Contracting civil engineer,1.69,91.47,42.03,STOPS AFTER 100 YARDS,267.28,BJC
+Selena Taylor,799-94-7849,Somali,Aeronautical engineer,1.69,79.08,52.76,STOPS AFTER A FEW MINUTES,17.03,BJC
+Linda Franco,090-29-3043,Serbian,Conservation officer historic buildings,1.76,102.42,47.86,ONLY STRENUOUS EXERCISE,396.32,BJC
+Charles Ramos,668-43-7628,Church Slavic,Chartered accountant,1.71,115.71,38.6,WHEN HURRYING,209.82,ST.LUKE'S
+Anthony Smith,024-12-2924,Thai,IT sales professional,1.51,80.91,71.71,WHEN HURRYING,239.63,ST.LUKE'S
+Andrew Cox,197-21-4445,Macedonian,Dietitian,1.56,100.05,61.28,WALKING UPHILL,56.9,BJC WEST COUNTY
+Danielle Clayton,597-47-2274,Haitian,General practice doctor,1.51,107.26,51.32,ONLY STRENUOUS EXERCISE,177.42,BJC WEST COUNTY
+Michael Wilcox,528-52-0413,Divehi,Film/video editor,1.79,99.28,49.52,WHEN HURRYING,392.21,BJC WEST COUNTY
+Wendy Dunn,214-78-4911,Georgian,Legal executive,1.55,98.08,59.83,STOPS AFTER A FEW MINUTES,306.28,ST.LUKE'S
+Robert Maynard,428-80-1065,Slovenian,Risk analyst,1.71,85.32,38.36,ONLY STRENUOUS EXERCISE,5.28,SAINT LOUIS UNIVERSITY
+William Kaiser,762-97-3821,Arabic,Cabin crew,1.74,96.56,42.07,STOPS AFTER 100 YARDS,109.52,ST.LUKE'S
+Erin Mejia,792-98-3199,Romansh,Designer blown glass/stained glass,1.74,88.42,47.19,STOPS WHEN WALKING AT PACE,61.6,ST.MARY'S
+Kenneth Jones,115-68-5905,Ido,Designer multimedia,1.68,105.45,62.33,STOPS WHEN WALKING AT PACE,129.11,ST.LUKE'S
+Janet Brown,802-05-9635,Bihari languages,Civil Service administrator,1.51,97.16,91.11,SLOWER THAN PEERS,80.58,BJC WEST COUNTY
+Hunter Fuentes,389-40-1639,Bambara,Tour manager,1.65,109.14,29.33,WALKING UPHILL,363.68,SAINT LOUIS UNIVERSITY
+William Arellano,809-03-5484,Samoan,Police officer,1.64,99.22,53.02,STOPS AFTER A FEW MINUTES,286.32,BJC WEST COUNTY
+Cory Bowers,348-92-0777,Inuktitut,Archivist,1.67,101.77,67.76,STOPS AFTER 100 YARDS,82.09,ST.MARY'S
+Luke Price,874-29-4043,Tajik,Radiation protection practitioner,1.73,112.27,50.45,WALKING UPHILL,110.74,BJC WEST COUNTY
+Cindy Rodgers,392-99-9233,Hebrew,Engineering geologist,1.78,81.59,56.62,UNABLE TO LEAVE HOME,130.26,ST.MARY'S
+Robert Tran,683-42-6748,Galician,Environmental consultant,1.73,89.47,91.1,WALKING UPHILL,204.15,ST.LUKE'S
+Susan Ware,492-76-0992,Kashmiri,Dentist,1.7,91.06,48.9,UNABLE TO LEAVE HOME,195.27,ST.MARY'S
+Jordan Gallegos,584-59-4203,Swedish,Retail buyer,1.69,96.79,51.2,STOPS AFTER 100 YARDS,144.73,MISSOURI BAPTIST
+Kara Bennett,080-66-0172,Belarusian,Geographical information systems officer,1.68,81.72,99.28,SLOWER THAN PEERS,383.74,SAINT LOUIS UNIVERSITY
+Jason Clayton,136-20-3983,Tamil,Analytical chemist,1.74,96.67,63.55,WALKING UPHILL,332.91,BJC WEST COUNTY
+Lauren Bradley,507-43-1378,Zhuang,Teaching laboratory technician,1.67,108.78,50.12,SLOWER THAN PEERS,209.03,SAINT LOUIS UNIVERSITY
+Pamela Clayton,629-07-6278,Japanese,Fitness centre manager,1.78,113.77,46.61,BREATHLESS WHEN DRESSING,243.69,BJC WEST COUNTY
+Kristina Cowan,374-35-4809,Armenian,Art therapist,1.68,97.46,75.68,STOPS WHEN WALKING AT PACE,286.36,ST.LUKE'S
+Anthony Hanson MD,335-62-6271,Pali,Broadcast journalist,1.51,97.21,98.97,UNABLE TO LEAVE HOME,39.09,MISSOURI BAPTIST
+Amanda Johnson,133-63-6441,Romansh,Chemist analytical,1.54,100.61,32.09,STOPS AFTER 100 YARDS,126.59,SAINT LOUIS UNIVERSITY
+Carl Short,501-56-4997,Xhosa,Acupuncturist,1.59,108.02,57.96,STOPS AFTER A FEW MINUTES,226.58,BJC
+Taylor Price,853-56-7790,Bashkir,Purchasing manager,1.61,86.3,88.14,BREATHLESS WHEN DRESSING,178.17,SAINT LOUIS UNIVERSITY
+Katie Davis,493-35-0456,Tswana,Learning mentor,1.71,94.13,40.89,SLOWER THAN PEERS,371.1,ST.MARY'S
+Alison Duncan,640-21-3077,Sindhi,Art gallery manager,1.71,87.1,55.55,WALKING UPHILL,338.51,ST.MARY'S
+Destiny Estrada,540-77-2591,Fulah,Psychologist prison and probation services,1.63,113.59,64.81,BREATHLESS WHEN DRESSING,144.84,BJC
+Ronald Montoya,856-34-8820,Lao,Actuary,1.62,80.27,36.82,BREATHLESS WHEN DRESSING,253.9,SAINT LOUIS UNIVERSITY
+Brooke Baker,284-65-6821,Bihari languages,Advice worker,1.76,80.74,26.83,STOPS AFTER 100 YARDS,65.59,BJC
+Kristen Williams,431-26-7390,Latvian,Surveyor building,1.52,111.36,33.35,BREATHLESS WHEN DRESSING,262.29,ST.LUKE'S
+Jacob Levine,824-78-7214,Twi,Tourism officer,1.55,82.25,30.94,ONLY STRENUOUS EXERCISE,228.23,ST.LUKE'S
