@@ -1,0 +1,4 @@
+Missing data files.
+Incorrect BMI calculation
+Incomplete DYSPNEA mapping.
+Never retrieved the data from hospitals, so unable to calculate COPD_PCT
